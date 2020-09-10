@@ -3,7 +3,7 @@ import pandas as pd
 
 district_data = pd.read_csv("facebook-accounts-from-district-homepages.csv")
 
-links_of_district_accounts = district_data['link'][1:50]
+links_of_district_accounts = district_data['link']
 
 for i in links_of_district_accounts:
 
