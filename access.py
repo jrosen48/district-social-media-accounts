@@ -3,14 +3,13 @@ import pandas as pd
 import time
 import datetime
 import timestring
-from datetime import date
-from datetime import datetime
+from datetime import date, datetime
 import os.path
 from os import path
 
 # params
 today = date.today()
-n_fb_pages = 50 # number of FB pages to download data for; for testing
+n_fb_pages = 100 # number of FB pages to download data for; for testing
 n_pages_to_iterate = 50 # number of pages to scrape within one FB page
 log_filename = 'logs/' + str(today) + '-error-log.txt'
 
@@ -23,67 +22,60 @@ links_of_district_accounts = district_data['link_proc'][0:n_fb_pages]
 # accessing page information
 for page_name in links_of_district_accounts:
 
-    page_filename = 'data/' + page_name + '.csv'
+    page_filename = 'data/' + str(page_name) + '.csv'
 
-    #if path.exists(page_filename):
+    if path.exists(page_filename):
 
-        #print('already exists, skipping: ' + page_filename)
+        print('already exists, skipping: ' + page_filename)
 
-    #else:
+    else:
     
-    print('accessing ', page_name, ' at ', str(datetime.now()))
-    
-    try:
+        print('accessing ', str(page_name), ' at ', str(datetime.now()))
+        
+        try:
 
-        page = pd.DataFrame()
+            page = pd.DataFrame()
 
-        for post in get_posts(page_name, pages = n_pages_to_iterate, extra_info = True): # extra info gets reactions
+            for post in get_posts(str(page_name), pages = n_pages_to_iterate, extra_info = True): # extra info gets reactions
 
-            try: 
-                 # sometimes, these don't exist
-                post['reactions'] = str(post['reactions']) # otherwise this causes the df to 'explode' since it's a dict
                 page = page.append(post, ignore_index = True)
 
-            except:
-                page = page.append(post, ignore_index = True)
+            page['time'] = [timestring.Date(i) for i in page['time']]
 
-        page['time'] = [timestring.Date(i) for i in page['time']]
+            first_date_we_want = datetime(year = 2020, month = 3, day = 1)
 
-        first_date_we_want = datetime(year = 2020, month = 3, day = 1)
+            if any(page['time'] <= first_date_we_want):
 
-        if any(page['time'] <= first_date_we_want):
+                print("accessed " + str(len(page)) + ' rows')
 
-            print("accessed " + len(page) + ' rows')
+                page.to_csv(page_filename)
 
-            page.to_csv(page_filename)
+            else:
 
-        else:
+                print("accessed " + str(len(page)) + " rows, but zero rows before 2020-03-01; accessing more")
 
-            print("accessed " + str(len(page)) + " rows, but zero rows before 2020-03-01; accessing more")
+                # this is janky and should be recursive, but it will help for a first pass
 
-            # this is janky and should be recursive, but it will help for a first pass
+                page = pd.DataFrame()
 
-            page = pd.DataFrame() # there's no way to search by date, so just starting over with a larger number
-            
-            for post in get_posts(page_name, pages = n_pages_to_iterate * 2, extra_info = True): # extra info gets reactions
+                for post in get_posts(str(page_name), pages = n_pages_to_iterate * 2, extra_info = True): # extra info gets reactions
 
-                try: 
-                     # sometimes, these don't exist
-                    post['reactions'] = str(post['reactions']) # otherwise this causes the df to 'explode' since it's a dict
                     page = page.append(post, ignore_index = True)
 
-                except:
-                    page = page.append(post, ignore_index = True)
+                print("accessed " + str(len(page)) + ' rows')
 
-    except:
+                page.to_csv(page_filename)
 
-        # logging errors
-        log_file = open(log_filename, "a")
-        log_file.writelines(page_name)
-        log_file.writelines('\n')
-        log_file.close()
+        except BaseException as e:
+            print(e)
 
-        print('timeout error for ' + str(page_name))
+            # logging errors
+            log_file = open(log_filename, "a")
+            log_file.writelines(str(page_name))
+            log_file.writelines('\n')
+            log_file.close()
+
+            print('timeout error for ' + str(page_name))
 
     # because this involves web-scraping
     time.sleep(2.5)
