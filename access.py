@@ -1,42 +1,37 @@
 from facebook_scraper import get_posts
 import pandas as pd
 import time
+import datetime
 from datetime import date
+from datetime import datetime
 
 # params
 today = date.today()
-n_pages = 49 # number of pages; for testing
-n_posts = 1 # number of posts per page 
+n_fb_pages = 50 # number of FB pages to download data for; for testing
+n_pages_to_iterate = 50 # number of pages to scrape within one FB page
 
 # setting up log
-log = pd.DataFrame()
-log_filename = str(today) + '-error-log.txt'
-log.to_csv(log_filename)
+log_filename = 'logs/' + str(today) + '-error-log.txt'
+log_file = open(log_filename, "a")
 
 # reading data with page names
 district_data = pd.read_csv("facebook-accounts-from-district-homepages.csv")
 
 # using just the link variable,
-links_of_district_accounts = district_data['link'][0:n_pages]
+links_of_district_accounts = district_data['link_proc'][0:n_fb_pages]
 
 # accessing page information
 for page_name in links_of_district_accounts:
 
-    print('accessing ', page_name)
+    print('accessing ', page_name, ' at ', str(datetime.now()))
     
     try:
 
         page = pd.DataFrame()
 
-        for post in get_posts(page_name, pages = n_posts):
-            page['post_id'] = post['post_id'],
-            page['text'] = post['text'],
-            page['time'] = post['time'],
-            page['likes'] = post['likes'],
-            page['comments'] = post['comments'],
-            page['shares'] = post['shares'],
-            page['post_url'] = post['post_url'],
-            page['link'] = post['link']
+        for post in get_posts(page_name, pages = n_pages_to_iterate, extra_info = True): # extra info gets reactions
+            post['reactions'] = str(post['reactions']) # otherwise this causes the df to 'explode' since it's a dict
+            page = page.append(post, ignore_index = True)
 
         page_filename = 'data/' + page_name + '.csv'
 
@@ -45,10 +40,9 @@ for page_name in links_of_district_accounts:
     except:
 
         # logging errors
-        log = pd.read_csv(log_filename)
-        new_row = {"page": page_name}
-        log.append(new_row)
-        log.to_csv(log_filename)
+        log_file.writelines(page_name)
+        log_file.writelines('\n')
+        log_file.close()
 
         print('timeout error for ' + str(page_name))
 
