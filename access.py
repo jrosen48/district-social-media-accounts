@@ -9,15 +9,15 @@ from os import path
 
 # params
 today = date.today()
-n_fb_pages = 100 # number of FB pages to download data for; for testing
-n_pages_to_iterate = 50 # number of pages to scrape within one FB page
+n_fb_pages = 3 # number of FB pages to download data for; for testing
+n_pages_to_iterate = 2 # number of pages to scrape within one FB page
 log_filename = 'logs/' + str(today) + '-error-log.txt'
 
 # reading data with page names
 district_data = pd.read_csv("facebook-accounts-from-district-homepages.csv")
 
 # using just the link variable,
-links_of_district_accounts = district_data['link_proc'][0:n_fb_pages]
+links_of_district_accounts = district_data['link_proc'][2:n_fb_pages]
 
 # accessing page information
 for page_name in links_of_district_accounts:
@@ -40,6 +40,8 @@ for page_name in links_of_district_accounts:
 
                 page = page.append(post, ignore_index = True)
 
+            print("I did make it here")
+            print(page)
             page['time'] = [timestring.Date(i) for i in page['time']]
 
             first_date_we_want = datetime(year = 2020, month = 3, day = 1)
