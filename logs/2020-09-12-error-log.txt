@@ -681,3 +681,10 @@ dekalbschoolsga - attempt to get posts failed
 turnerusd202 - incomplete
 dodgecountyschools - incomplete
 tescott-grade-school-125382600848502 - attempt to get posts failed
+abc_newspapers/news/education/coon-rapids-charter-school-rolls-out-program-to-combat-ninth/article_172deb44-0d4c-11ea-9d1e-a3d7dba8a6f9.html - attempt to get posts failed
+emanuelcounty - incomplete
+pages/ogilvie-public-schools/266773960183175 - attempt to get posts failed
+pages/ogilvie-hs-wrestling/1417384391827307 - attempt to get posts failed
+pages/ogilvie-hs-yearbook/687900581222379 - attempt to get posts failed
+pages/ogilvie-hs-football/344247669061686 - attempt to get posts failed
+ulysseshighschool - incomplete
