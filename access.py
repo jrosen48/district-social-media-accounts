@@ -9,15 +9,15 @@ from os import path
 
 # params
 today = date.today()
-n_fb_pages = 3 # number of FB pages to download data for; for testing
-n_pages_to_iterate = 2 # number of pages to scrape within one FB page
+n_fb_pages = 250 # number of FB pages to download data for; for testing
+n_pages_to_iterate = 50 # number of pages to scrape within one FB page
 log_filename = 'logs/' + str(today) + '-error-log.txt'
 
 # reading data with page names
 district_data = pd.read_csv("facebook-accounts-from-district-homepages.csv")
 
 # using just the link variable,
-links_of_district_accounts = district_data['link_proc'][2:n_fb_pages]
+links_of_district_accounts = district_data['link_proc'][0:n_fb_pages]
 
 # accessing page information
 for page_name in links_of_district_accounts:
@@ -36,12 +36,10 @@ for page_name in links_of_district_accounts:
 
             page = pd.DataFrame()
 
-            for post in get_posts(str(page_name), pages = n_pages_to_iterate, extra_info = True): # extra info gets reactions
+            for post in get_posts(str(page_name), pages = n_pages_to_iterate): # extra info gets reactions
 
                 page = page.append(post, ignore_index = True)
 
-            print("I did make it here")
-            print(page)
             page['time'] = [timestring.Date(i) for i in page['time']]
 
             first_date_we_want = datetime(year = 2020, month = 3, day = 1)
@@ -60,7 +58,7 @@ for page_name in links_of_district_accounts:
 
                 page = pd.DataFrame()
 
-                for post in get_posts(str(page_name), pages = n_pages_to_iterate * 2, extra_info = True): # extra info gets reactions
+                for post in get_posts(str(page_name), pages = n_pages_to_iterate * 2): # extra info gets reactions
 
                     page = page.append(post, ignore_index = True)
 
@@ -68,12 +66,19 @@ for page_name in links_of_district_accounts:
 
                 page.to_csv(page_filename)
 
+                log_file = open(log_filename, "a")
+                log_file.writelines(str(page_name) + ' - incomplete')
+                log_file.writelines('\n')
+                log_file.close()
+
+                print('incomplete search for ' + str(page_name))
+
         except BaseException as e:
             print(e)
 
             # logging errors
             log_file = open(log_filename, "a")
-            log_file.writelines(str(page_name))
+            log_file.writelines(str(page_name) + ' - attempt to get posts failed')
             log_file.writelines('\n')
             log_file.close()
 
