@@ -688,3 +688,5 @@ pages/ogilvie-hs-wrestling/1417384391827307 - attempt to get posts failed
 pages/ogilvie-hs-yearbook/687900581222379 - attempt to get posts failed
 pages/ogilvie-hs-football/344247669061686 - attempt to get posts failed
 ulysseshighschool - incomplete
+ogilvie-agriscience-classes-1122903531190611 - attempt to get posts failed
+pages/ogilvie-hs-ffa/773971326029193 - attempt to get posts failed
