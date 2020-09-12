@@ -9,7 +9,8 @@ from os import path
 
 # params
 today = date.today()
-n_fb_pages = 8000 # number of FB pages to download data for; for testing
+n_fb_pages_start = 2501 # number of FB pages to download data for; for testing
+n_fb_page_end = 4000
 n_pages_to_iterate = 50 # number of pages to scrape within one FB page
 log_filename = 'logs/' + str(today) + '-error-log.txt'
 
@@ -17,7 +18,7 @@ log_filename = 'logs/' + str(today) + '-error-log.txt'
 district_data = pd.read_csv("facebook-accounts-from-district-homepages.csv")
 
 # using just the link variable,
-links_of_district_accounts = district_data['link_proc'][n_fb_pages:8500]
+links_of_district_accounts = district_data['link_proc'][n_fb_pages_start:n_fb_page_end]
 
 # accessing page information
 for page_name in links_of_district_accounts:
@@ -85,6 +86,6 @@ for page_name in links_of_district_accounts:
             print('timeout error for ' + str(page_name))
 
     # because this involves web-scraping
-    time.sleep(2.5)
+    time.sleep(20)
 
 # checking_df = pd.read_csv("data/acsbulldogs.csv")
