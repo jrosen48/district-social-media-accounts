@@ -681,6 +681,39 @@ dekalbschoolsga - attempt to get posts failed
 turnerusd202 - incomplete
 dodgecountyschools - incomplete
 tescott-grade-school-125382600848502 - attempt to get posts failed
+<<<<<<< HEAD
+lisbon-elementary-105937327515677 - attempt to get posts failed
+pg/wilcoxpac/about - attempt to get posts failed
+mnwcougars - attempt to get posts failed
+maquoketa-community-school-district-163108753891566 - attempt to get posts failed
+marionisd/photos/a.304003976760624/835393533621663 - attempt to get posts failed
+850876828259383 - attempt to get posts failed
+marionisd/photos/a.304003976760624/834816580346025 - attempt to get posts failed
+marionisd/photos/a.304003976760624/833176777176672 - attempt to get posts failed
+marionisd/photos/a.304003976760624/830545874106429 - attempt to get posts failed
+288006371693718_828455317648818 - attempt to get posts failed
+pages/mediapolis-community-school/157150494325229 - attempt to get posts failed
+157150494325229_3891409997565908 - attempt to get posts failed
+157150494325229/posts/621427125375820 - attempt to get posts failed
+157150494325229/posts/3873613522678889 - attempt to get posts failed
+157150494325229/posts/689709878441715 - attempt to get posts failed
+pages/midland-middle-high-school/1389591114592674 - attempt to get posts failed
+groups/131430653612386 - attempt to get posts failed
+pioneervalleyperformingarts - attempt to get posts failed
+pittsfieldpublic - incomplete
+plymouthpublicschoolsma - incomplete
+sustainablecape - attempt to get posts failed
+rcsdbluedevils - incomplete
+pg/rvcs.ma - attempt to get posts failed
+pages/sabis-international-charter-school/1554221921456496 - attempt to get posts failed
+pages/salem-academy-charter-school/173173513266 - attempt to get posts failed
+salempublicschools - incomplete
+pages/shrewsbury-public-schools/151602471699144 - attempt to get posts failed
+ncces6 - attempt to get posts failed
+somervillepublicschools - incomplete
+pg/southhadleyschools/about - attempt to get posts failed
+pages/south-shore-charter-public-school/214024808678651 - attempt to get posts failed
+=======
 abc_newspapers/news/education/coon-rapids-charter-school-rolls-out-program-to-combat-ninth/article_172deb44-0d4c-11ea-9d1e-a3d7dba8a6f9.html - attempt to get posts failed
 emanuelcounty - incomplete
 pages/ogilvie-public-schools/266773960183175 - attempt to get posts failed
@@ -1545,6 +1578,7 @@ pages/wentzville-school-district/129179030449606 - attempt to get posts failed
 pages/south-shore-charter-public-school/214024808678651 - attempt to get posts failed
 westnodaway - incomplete
 murphysboro-cusd-186-381177278616828 - attempt to get posts failed
+>>>>>>> master
 244150675674190/posts/2922619467827284 - attempt to get posts failed
 southshorevocational/photos/a.546199262135995/2913157318773499 - attempt to get posts failed
 244150675674190/posts/2902330079856223 - attempt to get posts failed
@@ -1552,6 +1586,121 @@ ssvotech - attempt to get posts failed
 244150675674190/posts/2890491867706711 - attempt to get posts failed
 southshorevocational/videos/216603212941143 - attempt to get posts failed
 244150675674190/posts/2889015697854328 - attempt to get posts failed
+<<<<<<< HEAD
+groups/mount-everett-high-school-alumni-302474330119988 - attempt to get posts failed
+southwick-tolland-granville-regional-school-district-589978937847997 - incomplete
+choosesebrsd - incomplete
+springfieldk12 - incomplete
+stoughtonpublicschools - incomplete
+tauntonsepac - attempt to get posts failed
+tecconnectionsacademycommonwealthvirtualschool - attempt to get posts failed
+walthampride - attempt to get posts failed
+watertownpublicschools - attempt to get posts failed
+westfieldmapublicschools - incomplete
+westportcommunityschools - attempt to get posts failed
+weymouthpublicschools - attempt to get posts failed
+1030632003700125 - attempt to get posts failed
+winchester.ma.publicschools - incomplete
+pages/woburn-public-schools/123965547644466 - attempt to get posts failed
+worcesterschools - incomplete
+pages/achieve-charter-academy/278528448925349 - attempt to get posts failed
+addisonschools - attempt to get posts failed
+pages/advanced-technology-academy/125630797530486 - attempt to get posts failed
+airport-community-schools-175339412505419 - attempt to get posts failed
+alansonpublicschools - attempt to get posts failed
+allendalepublicschools - attempt to get posts failed
+alpenapublicschools - attempt to get posts failed
+amadistrict - attempt to get posts failed
+abtarspirit - incomplete
+pages/arbor-preparatory-high-school/207721402592719 - attempt to get posts failed
+cspartnersmi - incomplete
+ashleycommunityschools - incomplete
+athensk12.org - attempt to get posts failed
+augressims - attempt to get posts failed
+avondaleschooldistrict - incomplete
+pages/avondale-school-district/374069901589 - attempt to get posts failed
+bad-axe-public-schools-196645920473186 - incomplete
+pg/bangor-alumni-foundation-1430744743868173/posts - attempt to get posts failed
+bangorvikings - incomplete
+baraga-area-schools-athletics-1466682446992063 - attempt to get posts failed
+pages/battle-creek-montessori-academy/370830613014216 - attempt to get posts failed
+battle-creek-public-schools-1247144268771648 - incomplete
+statestreetacademy - incomplete
+beldingschools - attempt to get posts failed
+pages/benton-harbor-area-schools/107133589345056 - attempt to get posts failed
+bentonharborcharterschoolacademy - attempt to get posts failed
+benzieschools - incomplete
+bessemerareaschools - incomplete
+bigbayschool - incomplete
+birminghampublicschools - incomplete
+bhschools - incomplete
+profilepicframes - attempt to get posts failed
+branchlineschool - attempt to get posts failed
+brightonk12 - attempt to get posts failed
+browncityschools - incomplete
+buckleyschoollibrary - attempt to get posts failed
+burroakcs - incomplete
+cadillacschools - incomplete
+canifflibertyacademy - incomplete
+capac-community-schools-189983021016916 - incomplete
+carmanainsworthcs - incomplete
+pages/carney-nadeau-public-school-news/221750321216642 - attempt to get posts failed
+carney-nadeau-public-school-news-221750321216642 - incomplete
+casevillepublicschools - incomplete
+#!/pages/cass-city-public-schools/156732814383229 - attempt to get posts failed
+cassopolisschools - incomplete
+cassopolis-public-schools-669638396448539/timeline - attempt to get posts failed
+pages/cedar-springs-public-schools/1566525383567164 - attempt to get posts failed
+centerlineps - incomplete
+centrallakepublicschools - incomplete
+groups/1274686372564606 - attempt to get posts failed
+chelseabulldogs - incomplete
+pages/chippewa-valley-schools/329239905271 - attempt to get posts failed
+clarkstoncommunityschools - attempt to get posts failed
+pages/clio-area-schools/768642156512009 - attempt to get posts failed
+coleeasthuskies - attempt to get posts failed
+colemancommunityschools - incomplete
+pg/commonwealth-community-development-academy-151118734899094 - attempt to get posts failed
+comstockps - incomplete
+concordacademypetoskey - attempt to get posts failed
+creativemontessori - incomplete
+pg/crestwoodschooldistrict/posts - attempt to get posts failed
+crestwoodschooldistrict/videos/329598117702175 - attempt to get posts failed
+pages/crossroads-charter-academy/1431480483752863 - attempt to get posts failed
+pages/davincik12/703187286361621 - attempt to get posts failed
+dansvilleschools - incomplete
+dearbornpublicschools - incomplete
+district7schools - incomplete
+deckevilleschools - attempt to get posts failed
+delton-kellogg-school-district-785722691477656 - incomplete
+detroit.psa - attempt to get posts failed
+detroitenterpriseacademy - attempt to get posts failed
+dlaelementary - attempt to get posts failed
+servicelearn1 - attempt to get posts failed
+easternmichu - attempt to get posts failed
+drydencommunityschools - incomplete
+pages/dundee-community-schools/176761749102135 - attempt to get posts failed
+eaglesnestacademy/photos/a.1741482486077210/3190182771207167 - attempt to get posts failed
+1741470776078381/posts/3183329801892464 - attempt to get posts failed
+eastpointecommunityschools - attempt to get posts failed
+east-jordan-public-schools-510930255599787 - incomplete
+eastshoreleaders - attempt to get posts failed
+841170459232380 - attempt to get posts failed
+scccscb/photos/a.117129766618938/119324183066163 - attempt to get posts failed
+151062881630803/posts/3726235264113529 - attempt to get posts failed
+841170459232380/posts/3455226924493374 - attempt to get posts failed
+etonbulldogs - attempt to get posts failed
+edwardsburgpublicschools - attempt to get posts failed
+ellsworthlancers - incomplete
+endeavoracademy - incomplete
+eskyschools - attempt to get posts failed
+groups/431030413732765 - attempt to get posts failed
+ehschools - attempt to get posts failed
+etcschools - attempt to get posts failed
+farmingtonpublicschools - attempt to get posts failed
+fennvillepublicschools - incomplete
+ferndalepublicschools - incomplete
+=======
 wpzizzers - incomplete
 naperville203 - incomplete
 groups/mount-everett-high-school-alumni-302474330119988 - attempt to get posts failed
@@ -1912,3 +2061,5 @@ pages/perkins-county-schools/309856445868347 - attempt to get posts failed
 pages/pierce-nebraska-high-school/136007983113074 - attempt to get posts failed
 pages/pierce-elementary-school/142672529105357 - attempt to get posts failed
 etonbulldogs - attempt to get posts failed
+>>>>>>> master
+flextechhighschool - incomplete

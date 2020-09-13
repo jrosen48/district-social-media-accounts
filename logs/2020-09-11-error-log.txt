@@ -373,6 +373,28 @@ wolseywessingtonschool - incomplete
 yanktonschooldistrict - attempt to get posts failed
 alamocityschool - attempt to get posts failed
 acschooltn - incomplete
+<<<<<<< HEAD
+crookedoakps
+cyrilschools
+pages/dale-pirate-update/144568638978281
+dale-pirate-update-144568638978281
+davenport-public-school-303945729708358
+daviswolvesps
+denison-elementary-939568512723315
+groups/597031600335706
+pages/elgin-public-schools/2015330835272368
+elmore-city-pernell-school-district-466893010137202
+pages/fort-cobb-broxton-public-schools/344793352238564
+friendschool
+pages/geary-high-school/218509978163683
+geronimohighschool
+groups/1588287538074302
+pages/grandfield-public-schools/1384869198406645
+groups/3163713630305921
+guymonschooldistrict
+hcpeagles/timeline
+pages/haskell-mshs/769252463097760
+=======
 =======
 knoxschools
 clay-county-board-of-education
@@ -514,3 +536,4 @@ chickasaw-city-schools-482235791805003/
 pages/chilton-county-school-district/1418177841735719
 pages/chilton-county-school-district/1418177841735719
 >>>>>>> Stashed changes
+>>>>>>> master
