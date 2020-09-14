@@ -1,0 +1,533 @@
+id,conversation_id,created_at,date,time,timezone,user_id,username,name,place,tweet,mentions,urls,photos,replies_count,retweets_count,likes_count,hashtags,cashtags,link,retweet,quote_url,video,near,geo,source,user_rt_id,user_rt,retweet_id,reply_to,retweet_date,translate,trans_src,trans_dest
+1304402683286126595,1304402683286126595,1599828808000,2020-09-11,08:53:28,EDT,2321005321,brewtonschools,Brewton City Schools,, pic.twitter.com/q1nbNsUd93,[],[],['https://pbs.twimg.com/media/EhorU2SWkAAg5ek.jpg'],0,1,1,[],[],https://twitter.com/brewtonschools/status/1304402683286126595,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1286319620186689537,1286319620186689537,1595517470000,2020-07-23,11:17:50,EDT,2321005321,brewtonschools,Brewton City Schools,,BCS LEARNING OPTIONS VIDEO: https://youtu.be/_8fhqWI3n2w ,[],['https://youtu.be/_8fhqWI3n2w'],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1286319620186689537,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1285648892466528256,1285648892466528256,1595357556000,2020-07-21,14:52:36,EDT,2321005321,brewtonschools,Brewton City Schools,,"CALENDAR CHANGE:
+Please see the amended calendar attached. Students now return on August 10, 2020. pic.twitter.com/LJvdDGmCnz",[],[],['https://pbs.twimg.com/media/EdeK1ZVXsAQ41wm.jpg'],0,0,0,[],[],https://twitter.com/brewtonschools/status/1285648892466528256,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1283146848123981827,1283146848123981827,1594761022000,2020-07-14,17:10:22,EDT,2321005321,brewtonschools,Brewton City Schools,,REOPENING PLAN FOR @brewtonschools:  https://www.brewtoncityschools.org/cms/lib/AL01901380/Centricity/Domain/4/Reopening%20Plan%20-%20Brewton%20City%20Schools.pdf …,['brewtonschools'],['https://www.brewtoncityschools.org/cms/lib/AL01901380/Centricity/Domain/4/Reopening%20Plan%20-%20Brewton%20City%20Schools.pdf'],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1283146848123981827,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1265385252186476549,1265385250819125255,1590526328000,2020-05-26,16:52:08,EDT,2321005321,brewtonschools,Brewton City Schools,, https://m.youtube.com/channel/UCBDwltmPxxxGUNXTejTJhdQ/featured …,[],['https://m.youtube.com/channel/UCBDwltmPxxxGUNXTejTJhdQ/featured'],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1265385252186476549,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1265385250819125255,1265385250819125255,1590526328000,2020-05-26,16:52:08,EDT,2321005321,brewtonschools,Brewton City Schools,,"The BCS School Board will hold a special called meeting Wednesday, May 27 at 5 p.m.
+The meeting will be held via Zoom and will be on the Brewton City Schools YouTube page.
+
+Items to be discussed will be: bids, personnel and a workshop for board members following the meeting.",[],[],[],1,0,1,[],[],https://twitter.com/brewtonschools/status/1265385250819125255,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1263186295687348224,1263186295687348224,1590002056000,2020-05-20,15:14:16,EDT,2321005321,brewtonschools,Brewton City Schools,,BCS has the following positions open for applicants to apply for: https://www.brewtoncityschools.org/site/Default.aspx?PageID=49 …,[],['https://www.brewtoncityschools.org/site/Default.aspx?PageID=49'],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1263186295687348224,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1262504898261901315,1262504898261901315,1589839598000,2020-05-18,18:06:38,EDT,2321005321,brewtonschools,Brewton City Schools,, http://www.youtube.com/watch?v=yYfc0h5vwpw …,[],['http://www.youtube.com/watch?v=yYfc0h5vwpw'],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1262504898261901315,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1262393179749351427,1262393178608603138,1589812962000,2020-05-18,10:42:42,EDT,2321005321,brewtonschools,Brewton City Schools,,"To access the livestream of the meeting, go to BCS's YouTube channel. The link to the meeting will be available around 5 p.m. Monday.
+
+YouTube link: https://www.youtube.com/channel/UCBDwltmPxxxGUNXTejTJhdQ …",[],['https://www.youtube.com/channel/UCBDwltmPxxxGUNXTejTJhdQ'],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1262393179749351427,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1262393178608603138,1262393178608603138,1589812962000,2020-05-18,10:42:42,EDT,2321005321,brewtonschools,Brewton City Schools,,"BCS BOE TO MEET MONDAY
+
+Brewton City Schools will have their regular scheduled board meeting Monday, May 18, at 5 p.m. Because of our current conditions, this meeting will be closed to the public, but we will livestream it.",[],[],[],1,1,0,[],[],https://twitter.com/brewtonschools/status/1262393178608603138,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1260914962588934144,1260914960982577153,1589460528000,2020-05-14,08:48:48,EDT,2321005321,brewtonschools,Brewton City Schools,,Look for a link on our website and social media platforms a little before 5 p.m. Monday to view the meeting online.,[],[],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1260914962588934144,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1260914960982577153,1260914960982577153,1589460528000,2020-05-14,08:48:48,EDT,2321005321,brewtonschools,Brewton City Schools,,"Brewton City Schools will have their regular scheduled board meeting Monday, May 18, at 5 p.m. Because of our current conditions, this meeting will be closed to the public, but we will livestream it.",[],[],[],1,0,1,[],[],https://twitter.com/brewtonschools/status/1260914960982577153,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1259108644500779010,1259108644500779010,1589029868000,2020-05-09,09:11:08,EDT,2321005321,brewtonschools,Brewton City Schools,,BMS TEACHER PARADE: https://youtu.be/SQBTPITXeGM ,[],['https://youtu.be/SQBTPITXeGM'],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1259108644500779010,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1258119517798088705,1258119508717428738,1588794042000,2020-05-06,15:40:42,EDT,2321005321,brewtonschools,Brewton City Schools,,"WE LOVE AND APPRECIATE ALL OF OUR BCS TEACHERS, STAFF, PRINCIPALS AND NURSES!!!
+
+Thanks for ALL that you do! We love and miss everyone!
+Stay safe! pic.twitter.com/NWOFuzHNw4",[],[],"['https://pbs.twimg.com/media/EXW9B-BU4AA2Tml.jpg', 'https://pbs.twimg.com/media/EXW9B-TUMAEyxuw.jpg']",0,0,0,[],[],https://twitter.com/brewtonschools/status/1258119517798088705,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1258119508717428738,1258119508717428738,1588794040000,2020-05-06,15:40:40,EDT,2321005321,brewtonschools,Brewton City Schools,,"WE LOVE AND APPRECIATE ALL OF OUR BCS TEACHERS, STAFF, PRINCIPALS AND NURSES!!!
+
+Thanks for ALL that you do! We love and miss everyone!
+Stay safe! pic.twitter.com/eJJWYKORFq",[],[],['https://pbs.twimg.com/media/EXW9BKTUMAAcQSc.jpg'],1,0,1,[],[],https://twitter.com/brewtonschools/status/1258119508717428738,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1258119309106257922,1258119309106257922,1588793992000,2020-05-06,15:39:52,EDT,2321005321,brewtonschools,Brewton City Schools,,"Several information has been posted to our website lately. Stay updated with the latest news as well as information on the individual school websites of BES, BMS and TRM! https://www.brewtoncityschools.org ",[],['https://www.brewtoncityschools.org'],[],0,0,1,[],[],https://twitter.com/brewtonschools/status/1258119309106257922,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1252997113589489667,1252997113589489667,1587572766000,2020-04-22,12:26:06,EDT,2321005321,brewtonschools,Brewton City Schools,,"Brewton City Schools has the following job(s) available:
+
+ https://www.brewtoncityschools.org/site/Default.aspx?PageID=49 …",[],['https://www.brewtoncityschools.org/site/Default.aspx?PageID=49'],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1252997113589489667,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1249775451515629568,1249775451515629568,1586804662000,2020-04-13,15:04:22,EDT,2321005321,brewtonschools,Brewton City Schools,,"Brewton City Schools has the following job(s) available:
+
+ https://www.brewtoncityschools.org/site/Default.aspx?PageID=49 …",[],['https://www.brewtoncityschools.org/site/Default.aspx?PageID=49'],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1249775451515629568,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1247629450155614212,1247629450155614212,1586293015000,2020-04-07,16:56:55,EDT,2321005321,brewtonschools,Brewton City Schools,,"Brewton City Schools has the following job(s) available:
+
+ https://www.brewtoncityschools.org/site/Default.aspx?PageID=49 …",[],['https://www.brewtoncityschools.org/site/Default.aspx?PageID=49'],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1247629450155614212,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1245439993033695235,1245439989187518464,1585771008000,2020-04-01,15:56:48,EDT,2321005321,brewtonschools,Brewton City Schools,,"All BCS internet access is filtered and CIPA compliant.
+
+Additionally, the City of Brewton has wifi available at The John L Fisher Community Center, Jennings Park, Obannon Park, Dogwood Hills and the Public Library.",[],[],[],1,1,5,[],[],https://twitter.com/brewtonschools/status/1245439993033695235,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1245439989187518464,1245439989187518464,1585771007000,2020-04-01,15:56:47,EDT,2321005321,brewtonschools,Brewton City Schools,,"Brewton City Schools has opened up its wifi to the public.  The parking lots at TR Miller High School, Brewton Elementary School and the BCS Central Office now offer high-speed hot spots that can be accessed without a password.  Look for the BCSS-Guest network.",[],[],[],1,6,18,[],[],https://twitter.com/brewtonschools/status/1245439989187518464,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1244718504793817090,1244718504793817090,1585598991000,2020-03-30,16:09:51,EDT,2321005321,brewtonschools,Brewton City Schools,,IMPORTANT INFORMATIVE VIDEO FROM TRM PRINCIPAL:  https://www.facebook.com/364492713600466/posts/2751602684889445/?vh=e&d=n …,[],['https://www.facebook.com/364492713600466/posts/2751602684889445/?vh=e&d=n'],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1244718504793817090,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1240442763138805760,1240442761641447427,1584579575000,2020-03-18,20:59:35,EDT,2321005321,brewtonschools,Brewton City Schools,,"The regular route buses driven by the regular drivers will deliver meal packages to the students who show up at the bus stops during this time.
+
+Additionally, students can pick up meal packages in front of TR Miller High School from 8:00-10:00 Friday morning.",[],[],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1240442763138805760,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1240442761641447427,1240442761641447427,1584579575000,2020-03-18,20:59:35,EDT,2321005321,brewtonschools,Brewton City Schools,,Meals for Brewton City School Students!!  Students who would like to receive meals from Brewton City Schools during the shutdown need to be at their regular bus stop on Friday morning between 8:00-8:40 AM.,[],[],[],1,0,0,[],[],https://twitter.com/brewtonschools/status/1240442761641447427,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1240356811515072518,1240356811515072518,1584559083000,2020-03-18,15:18:03,EDT,2321005321,brewtonschools,Brewton City Schools,,WE PLAN TO GO LIVE AROUND 3:25 p.m today for our Pre-K drawing for our 2020-21 class:  https://www.facebook.com/315752341840177/posts/2847010818714304/?d=n …,[],['https://www.facebook.com/315752341840177/posts/2847010818714304/?d=n'],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1240356811515072518,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1240356204259487746,1240356204259487746,1584558938000,2020-03-18,15:15:38,EDT,2321005321,brewtonschools,Brewton City Schools,,"Please stay tuned to our website and social media platforms — as well as other messaging platforms —- for any updates! We thank you for your patience, understanding and cooperation during these uncertain times! Please be safe! pic.twitter.com/RIUCXm4yst",[],[],['https://pbs.twimg.com/media/ETahZETXkAE_Hic.jpg'],0,1,1,[],[],https://twitter.com/brewtonschools/status/1240356204259487746,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1239360045785272322,1239360044124307456,1584321435000,2020-03-15,21:17:15,EDT,2321005321,brewtonschools,Brewton City Schools,,"If you choose to keep you child at home tomorrow, the absence will be excused and not counted against your child.",[],[],[],0,1,1,[],[],https://twitter.com/brewtonschools/status/1239360045785272322,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1239360044124307456,1239360044124307456,1584321435000,2020-03-15,21:17:15,EDT,2321005321,brewtonschools,Brewton City Schools,,"Brewton City Schools will close at 3:00 PM on Monday, March 16 and remain closed until April 6.  
+
+Although we will have a regular school day tomorrow, we will not be in school on Tue and Wed as originally planned.",[],[],[],2,4,0,[],[],https://twitter.com/brewtonschools/status/1239360044124307456,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1238591975328108544,1238591975328108544,1584138313000,2020-03-13,18:25:13,EDT,2321005321,brewtonschools,Brewton City Schools,, https://www.al.com/news/2020/03/alabama-closes-all-k-12-schools.html …,[],['https://www.al.com/news/2020/03/alabama-closes-all-k-12-schools.html'],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1238591975328108544,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1237359135999561728,1237359131608178688,1583844381000,2020-03-10,08:46:21,EDT,2321005321,brewtonschools,Brewton City Schools,,"Pre-registration for next year’s class will run through March 13. 
+Enrollment will be open to all children four years of age on or before 9/1/2020 and residents of Alabama. 
+The random drawing will be held on March 19th at 3:30 pm at the Board of Education.",[],[],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1237359135999561728,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1237359133206118400,1237359131608178688,1583844381000,2020-03-10,08:46:21,EDT,2321005321,brewtonschools,Brewton City Schools,,"Spring Break holidays for all schools will be held Mon., March 23 through Fri., March 27.
+School will resume on Mon., March 30. Teachers and students will report back to school that day.
+We encourage everyone to be safe during this time and hope all have a great break!",[],[],[],1,0,0,[],[],https://twitter.com/brewtonschools/status/1237359133206118400,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1237359131608178688,1237359131608178688,1583844380000,2020-03-10,08:46:20,EDT,2321005321,brewtonschools,Brewton City Schools,,"BCS BOE TO MEET MONDAY 
+
+The Brewton City Board of Education will meet Monday, March 16, at 5 p.m. at the Brewton City Board of Education Central Office Board Meeting Room.",[],[],[],1,0,0,[],[],https://twitter.com/brewtonschools/status/1237359131608178688,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1227689790012841985,1227689790012841985,1581539029000,2020-02-12,15:23:49,EDT,2321005321,brewtonschools,Brewton City Schools,,"JUST A REMINDER:
+
+Brewton City Schools will be in normal session Thursday, Friday, and Monday.
+
+The next holiday for BCS will be spring break March 23-27. pic.twitter.com/K2UVw57NL1",[],[],['https://pbs.twimg.com/media/EQmhWr4WAAcOF71.jpg'],0,0,3,[],[],https://twitter.com/brewtonschools/status/1227689790012841985,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1222220222498820103,1222220218853920768,1580234983000,2020-01-28,13:09:43,EDT,2321005321,brewtonschools,Brewton City Schools,,"Such legislation would effectively do away with spring break and would also cut into both the Thanksgiving and Christmas breaks.  
+
+But as of right now, this will be our school calendar for next year.",[],[],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1222220222498820103,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1222220221072715777,1222220218853920768,1580234983000,2020-01-28,13:09:43,EDT,2321005321,brewtonschools,Brewton City Schools,,"However, according to BCS Sup. Dr. Kenneth Varner, we are expecting some legislation to be introduced that, if enacted, will require that we modify our calendar.  
+The proposed legislation will stipulate that we cannot start before Labor Day & must be out before Memorial Day.",[],[],[],1,0,0,[],[],https://twitter.com/brewtonschools/status/1222220221072715777,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1222220218853920768,1222220218853920768,1580234982000,2020-01-28,13:09:42,EDT,2321005321,brewtonschools,Brewton City Schools,,"2020-2021 School calendar for BCS approved at Monday’s BOE meeting:
+
+The attached calendar has been approved by the Brewton City Board of Education pic.twitter.com/OdU7mGlZpr",[],[],['https://pbs.twimg.com/media/EPYyzrQWAAE6t1h.jpg'],1,0,1,[],[],https://twitter.com/brewtonschools/status/1222220218853920768,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1220014997943865348,1220014997943865348,1579709216000,2020-01-22,11:06:56,EDT,2321005321,brewtonschools,Brewton City Schools,,"BCS BOE TO MEET MONDAY
+
+The Brewton City Board of Education will meet Monday, January 27, at 5 p.m. at the Brewton City Board of Education Central Office Board Meeting Room.",[],[],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1220014997943865348,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1218206083476590593,1218206083476590593,1579277938000,2020-01-17,11:18:58,EDT,2321005321,brewtonschools,Brewton City Schools,,"REMINDER:
+
+SCHOOLS CLOSED JAN. 20
+
+All Brewton City Schools will be closed Monday, Jan. 20, in observance of Dr. Martin Luther King, Jr. Day. School will resume on Tuesday, Jan. 21. pic.twitter.com/dJYu8L9QuQ",[],[],[],0,1,3,[],[],https://twitter.com/brewtonschools/status/1218206083476590593,False,,1,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1216749483289169922,1216749483289169922,1578930657000,2020-01-13,10:50:57,EDT,2321005321,brewtonschools,Brewton City Schools,,"MLK HOLIDAY: SCHOOLS CLOSED JAN. 20
+
+All Brewton City Schools will be closed next Monday, Jan. 20, in observance of Dr. Martin Luther King, Jr. Day. School will resume on Tuesday, Jan. 21. pic.twitter.com/8f6nJvMVfj",[],[],[],0,2,1,[],[],https://twitter.com/brewtonschools/status/1216749483289169922,False,,1,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1214542917177630720,1214542917177630720,1578404571000,2020-01-07,08:42:51,EDT,2321005321,brewtonschools,Brewton City Schools,,"ATTENTION TIGER FANS AND TRM ALUMNI:
+
+Good morning Tiger fans! We have a date set for Homecoming 2020!!! TRM will host Hillcrest on Friday, Oct. 9 for our homecoming this year! pic.twitter.com/jkotfbU422",[],[],['https://pbs.twimg.com/media/ENrsV29WsAIBYaL.jpg'],0,0,1,[],[],https://twitter.com/brewtonschools/status/1214542917177630720,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1212267003936944128,1212267003936944128,1577861951000,2020-01-01,01:59:11,EDT,2321005321,brewtonschools,Brewton City Schools,,"Happy new year 2020 to and from the BCS family! May this be your best year yet!! 
+
+Teachers report back Monday, Jan. 6. Students come back Tuesday, Jan. 7! pic.twitter.com/tpqkezh7Jt",[],[],['https://pbs.twimg.com/media/ENLWae1WoAAkJGs.jpg'],0,0,1,[],[],https://twitter.com/brewtonschools/status/1212267003936944128,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1209710596565950464,1209710596565950464,1577252456000,2019-12-25,00:40:56,EDT,2321005321,brewtonschools,Brewton City Schools,,MERRY CHRISTMAS TO YOU AND YOURS FROM BREWTON CITY SCHOOLS!!!! pic.twitter.com/LnxIkrXwQ4,[],[],['https://pbs.twimg.com/media/EMnBXxTWwAAUWv4.jpg'],0,0,3,[],[],https://twitter.com/brewtonschools/status/1209710596565950464,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1207735610955444225,1207735610955444225,1576781582000,2019-12-19,13:53:02,EDT,2321005321,brewtonschools,Brewton City Schools,,"Christmas/New Years Break will be Dec. 23-Jan. 3.
+
+Teachers will come back to school on Monday, Jan. 6.
+
+Students come back to school on Tuesday, Jan. 7.",[],[],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1207735610955444225,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1207735382764339201,1207735382764339201,1576781528000,2019-12-19,13:52:08,EDT,2321005321,brewtonschools,Brewton City Schools,,"CHRISTMAS BREAK EARLY DISMISSAL (Friday, Dec. 20)
+
+All Brewton City Schools will be dismissed Friday (December 20) at 1 p.m.  We hope all have a great and safe Merry Christmas and a Happy New Year!",[],[],[],0,0,1,[],[],https://twitter.com/brewtonschools/status/1207735382764339201,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1206574629906722818,1206574629906722818,1576504783000,2019-12-16,08:59:43,EDT,2321005321,brewtonschools,Brewton City Schools,,"BCS BOE TO MEET TODAY
+
+The Brewton City Board of Education will meet Monday, December 16, at 5 p.m. at the Brewton City Board of Education Central Office Board Meeting Room.",[],[],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1206574629906722818,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1204765531812892672,1204765529740890112,1576073460000,2019-12-11,09:11:00,EDT,2321005321,brewtonschools,Brewton City Schools,,"---------------------------------------------------------------
+
+* CHRISTMAS BREAK EARLY DISMISSAL (Friday, Dec. 20)
+
+All Brewton City Schools will be dismissed Friday (December 20) at 1 p.m.  We hope all have a great and safe Merry Christmas and a Happy New Year!",[],[],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1204765531812892672,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1204765530743332866,1204765529740890112,1576073460000,2019-12-11,09:11:00,EDT,2321005321,brewtonschools,Brewton City Schools,,"----------------------------------------------------------------
+* CHRISTMAS BREAK
+Christmas/New Years Break will be Dec. 23-Jan. 3.
+
+Teachers will come back to school on Monday, Jan. 6.
+
+Students come back to school on Tuesday, Jan. 7.",[],[],[],1,0,0,[],[],https://twitter.com/brewtonschools/status/1204765530743332866,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1204765529740890112,1204765529740890112,1576073460000,2019-12-11,09:11:00,EDT,2321005321,brewtonschools,Brewton City Schools,,"UPCOMING DATES:
+
+* BCS BOE TO MEET MONDAY
+
+The Brewton City Board of Education will meet Monday, December 16, at 5 p.m. at the Brewton City Board of Education Central Office Board Meeting Room.",[],[],[],1,1,0,[],[],https://twitter.com/brewtonschools/status/1204765529740890112,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1201958871432126465,1201958871432126465,1575404300000,2019-12-03,15:18:20,EDT,2321005321,brewtonschools,Brewton City Schools,,"All Brewton City Schools will dismiss for Christmas break at 1:00 on Friday, December 20th.",[],[],[],0,1,1,[],[],https://twitter.com/brewtonschools/status/1201958871432126465,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1200050629638590466,1200050629638590466,1574949340000,2019-11-28,08:55:40,EDT,2321005321,brewtonschools,Brewton City Schools,, pic.twitter.com/h6XmDCGsZC,[],[],['https://pbs.twimg.com/media/EKdvrq-WsAYnVCW.jpg'],0,0,0,[],[],https://twitter.com/brewtonschools/status/1200050629638590466,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1196419183963185152,1196419183963185152,1574083536000,2019-11-18,08:25:36,EDT,2321005321,brewtonschools,Brewton City Schools,,"BCS BOE TO MEET TODAY
+
+The Brewton City Board of Education will meet Monday, November 18, at 5 p.m. at the Brewton City Board of Education Central Office Board Meeting Room.",[],[],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1196419183963185152,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1194259594891141120,1194259594891141120,1573568650000,2019-11-12,09:24:10,EDT,2321005321,brewtonschools,Brewton City Schools,,"BCS BOE TO MEET MONDAY
+
+The Brewton City Board of Education will meet Monday, November 18, at 5 p.m. at the Brewton City Board of Education Central Office Board Meeting Room.",[],[],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1194259594891141120,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1192101020660314117,1192101020660314117,1573054006000,2019-11-06,10:26:46,EDT,2321005321,brewtonschools,Brewton City Schools,,"REMINDERS ⬇️⬇️⬇️
+
+*** Also, BCS will be closed Nov. 25-29 for Thanksgiving break *** pic.twitter.com/BOjMfMNNtk",[],[],['https://pbs.twimg.com/media/EIsxjw7WkAAEvaA.jpg'],0,1,1,[],[],https://twitter.com/brewtonschools/status/1192101020660314117,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1191491665627951104,1191491665627951104,1572908724000,2019-11-04,18:05:24,EDT,2321005321,brewtonschools,Brewton City Schools,,Per Schoolcast phone call Monday: SCHOOLS WILL DISMISS FRIDAY AT 2 p.m.,[],[],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1191491665627951104,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1186264294721236993,1186264294721236993,1571662422000,2019-10-21,08:53:42,EDT,2321005321,brewtonschools,Brewton City Schools,,"BCS BOE TO MEET TODAY 
+
+The Brewton City Board of Education will meet Monday, October 21, at 5 p.m. at the Brewton City Board of Education Central Office Board Meeting Room.",[],[],[],0,0,1,[],[],https://twitter.com/brewtonschools/status/1186264294721236993,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1184913207766462464,1184913207766462464,1571340298000,2019-10-17,15:24:58,EDT,2321005321,brewtonschools,Brewton City Schools,,"BCS BOE TO MEET MONDAY
+
+The Brewton City Board of Education will meet Monday, October 21, at 5 p.m. at the Brewton City Board of Education Central Office Board Meeting Room.",[],[],[],0,0,1,[],[],https://twitter.com/brewtonschools/status/1184913207766462464,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1183458293102137353,1183458271862112256,1570993419000,2019-10-13,15:03:39,EDT,2321005321,brewtonschools,Brewton City Schools,, pic.twitter.com/h6VwWKrVcs,[],[],['https://pbs.twimg.com/media/EGx9CBDWoAAiuhi.jpg'],0,0,0,[],[],https://twitter.com/brewtonschools/status/1183458293102137353,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1183458271862112256,1183458271862112256,1570993414000,2019-10-13,15:03:34,EDT,2321005321,brewtonschools,Brewton City Schools,,"REMINDER: NO SCHOOL FOR STUDENTS ON MONDAY 
+
+Monday, Oct. 14, will be Report Card/Parent-Teacher Conference Day for Brewton City Schools.
+Students will be off from school on this day, but it will be a work day for teachers. pic.twitter.com/eF88OD3xQw",[],[],['https://pbs.twimg.com/media/EGx9A6EWwAImYZk.jpg'],1,0,0,[],[],https://twitter.com/brewtonschools/status/1183458271862112256,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1181975678595543040,1181975678595543040,1570639936000,2019-10-09,12:52:16,EDT,2321005321,brewtonschools,Brewton City Schools,,"REMINDER: NO SCHOOL FOR STUDENTS ON MONDAY 
+
+Monday, Oct. 14, will be Report Card/Parent-Teacher Conference Day for Brewton City Schools.
+Students will be off from school on this day, but it will be a work day for teachers.",[],[],[],0,0,1,[],[],https://twitter.com/brewtonschools/status/1181975678595543040,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1176114095432577025,1176114095432577025,1569242426000,2019-09-23,08:40:26,EDT,2321005321,brewtonschools,Brewton City Schools,,"SPECIAL CALLED BOARD MEETING TO BE HELD TODAY 
+ 
+A special called board meeting will be held today, Monday (September 23) at 5 p.m.  at the Central Office on Belleville Avenue. Items of discussion will be personnel.",[],[],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1176114095432577025,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1175023662925324293,1175023662925324293,1568982446000,2019-09-20,08:27:26,EDT,2321005321,brewtonschools,Brewton City Schools,,"SPECIAL CALLED BOARD MEETING TO BE HELD MONDAY
+ 
+A special called board meeting will be held Monday (September 23) at 5 p.m.  at the Central Office on Belleville Avenue. Items of discussion will be personnel.",[],[],[],0,0,1,[],[],https://twitter.com/brewtonschools/status/1175023662925324293,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1172552349761638400,1172552349761638400,1568393239000,2019-09-13,12:47:19,EDT,2321005321,brewtonschools,Brewton City Schools,,BMS Teaching Position posted: https://www.brewtoncityschools.org/domain/23 ,[],['https://www.brewtoncityschools.org/domain/23'],[],0,0,1,[],[],https://twitter.com/brewtonschools/status/1172552349761638400,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1171734198023000065,1171734198023000065,1568198177000,2019-09-11,06:36:17,EDT,2321005321,brewtonschools,Brewton City Schools,,#September11 #NeverForget pic.twitter.com/93TUk865ZB,[],[],['https://pbs.twimg.com/media/EELWClQWwAEIaK8.jpg'],0,0,3,"['#september11', '#neverforget']",[],https://twitter.com/brewtonschools/status/1171734198023000065,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1170799865997209600,1170799865997209600,1567975415000,2019-09-08,16:43:35,EDT,2321005321,brewtonschools,Brewton City Schools,,"BCS BOE TO MEET MONDAY
+
+The Brewton City Board of Education will meet Monday, September 9, at 5 p.m. at the Brewton City Board of Education Central Office Board Meeting Room.",[],[],[],0,0,1,[],[],https://twitter.com/brewtonschools/status/1170799865997209600,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1169271683900956672,1169271683900956672,1567611068000,2019-09-04,11:31:08,EDT,2321005321,brewtonschools,Brewton City Schools,,"SPECIAL CALLED BOARD MEETING TO BE HELD THURSDAY
+ 
+A special called board meeting will be held Thursday (September 5) at 12 p.m.  at the Central Office on Belleville Avenue. Items of discussion will be personnel, resolution and a budget hearing.",[],[],[],0,0,2,[],[],https://twitter.com/brewtonschools/status/1169271683900956672,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1166707115089641473,1166707115089641473,1566999627000,2019-08-28,09:40:27,EDT,2321005321,brewtonschools,Brewton City Schools,,"NO SCHOOL MONDAY, SEPT. 2 (LABOR DAY)
+
+All Brewton City Schools will be closed Monday, Sept. 2, in observance of Labor. Day. School will resume on Tuesday, Sept. 3.",[],[],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1166707115089641473,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1163804902231072769,1163804902231072769,1566307685000,2019-08-20,09:28:05,EDT,2321005321,brewtonschools,Brewton City Schools,,"New job opening posted: Bus Driver
+
+ https://www.brewtoncityschools.org/domain/23 ",[],['https://www.brewtoncityschools.org/domain/23'],[],0,0,2,[],[],https://twitter.com/brewtonschools/status/1163804902231072769,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1160894495069822977,1160894495069822977,1565613790000,2019-08-12,08:43:10,EDT,2321005321,brewtonschools,Brewton City Schools,,"BCS BOE TO MEET MONDAY
+
+The Brewton City Board of Education will meet Monday, August 19, at 5 p.m. at the Brewton City Board of Education Central Office Board Meeting Room.",[],[],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1160894495069822977,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1158091644970897410,1158091644970897410,1564945539000,2019-08-04,15:05:39,EDT,2321005321,brewtonschools,Brewton City Schools,,Our 2019-20 school calendar! pic.twitter.com/wqfAwL1kKR,[],[],['https://pbs.twimg.com/media/EBJeMH6XsAE8Dm8.jpg'],0,0,0,[],[],https://twitter.com/brewtonschools/status/1158091644970897410,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1158088670764818432,1158088670764818432,1564944830000,2019-08-04,14:53:50,EDT,2321005321,brewtonschools,Brewton City Schools,,"REMINDER: In-service day is tomorrow, Monday, Aug. 5, at 8 a.m. at TRM’s auditorium!
+
+See you then!
+
+The 2019-20 school year is going to be our best yet!!
+
+#BCS #EverybodyLearnsEveryday pic.twitter.com/DqCoGzxJIb",[],[],['https://pbs.twimg.com/media/EBJbgRvXoAI7JAt.jpg'],0,0,0,"['#bcs', '#everybodylearnseveryday']",[],https://twitter.com/brewtonschools/status/1158088670764818432,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1157038157453332481,1157038157453332481,1564694368000,2019-08-01,17:19:28,EDT,2321005321,brewtonschools,Brewton City Schools,,"UPDATE: * New teacher orientation will be held Friday, Aug. 2 at 9 a.m. (not 8 a.m.)",[],[],[],0,0,1,[],[],https://twitter.com/brewtonschools/status/1157038157453332481,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1151844469832146950,1151844462496272384,1563456096000,2019-07-18,09:21:36,EDT,2321005321,brewtonschools,Brewton City Schools,,"More information concerning other dates, times and information for all three schools and for the Central Office will be posted at a later day as it is received.",[],[],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1151844469832146950,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1151844468594814976,1151844462496272384,1563456096000,2019-07-18,09:21:36,EDT,2321005321,brewtonschools,Brewton City Schools,,"* For more important dates and information, please consult the BMS Newsletter.
+
+ TRM INFO:
+
+Class schedules for students will be available on Friday, August 2nd, 2019 from 9-11 in the media center.  ALL SCHEDULE CHANGES SHOULD BE DONE ON THIS DATE.",[],[],[],1,0,0,[],[],https://twitter.com/brewtonschools/status/1151844468594814976,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1151844467533668353,1151844462496272384,1563456095000,2019-07-18,09:21:35,EDT,2321005321,brewtonschools,Brewton City Schools,,"School supplies not picked up before the first day of school will be given to those students on the first day of school (Thursday 8/8).
+
+* 7th &8th grade summer reading reports will be turned in on the first week of school and students will take a Reading Counts test for a grade.",[],[],[],1,0,0,[],[],https://twitter.com/brewtonschools/status/1151844467533668353,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1151844466208256000,1151844462496272384,1563456095000,2019-07-18,09:21:35,EDT,2321005321,brewtonschools,Brewton City Schools,,"*Out of district fees ($125) need to be paid at any school in the system by Tuesday, Aug. 6.
+
+*School supplies ordered will be available for pickup at Open House (Sunday, August 4) or any time Tuesday (8/6) - Wednesday (8/7).",[],[],[],1,0,0,[],[],https://twitter.com/brewtonschools/status/1151844466208256000,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1151844465017065472,1151844462496272384,1563456095000,2019-07-18,09:21:35,EDT,2321005321,brewtonschools,Brewton City Schools,,"BMS INFO:
+
+* There will be a Title I Parent Meeting on Sunday, August 4, at 1:30 p.m. in the BMS Cafeteria.  Following the Title I meeting, we will have Open House for 5th grade and New Students.  This will begin at 2 p.m. in the Cafeteria",[],[],[],1,0,0,[],[],https://twitter.com/brewtonschools/status/1151844465017065472,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1151844463976882176,1151844462496272384,1563456095000,2019-07-18,09:21:35,EDT,2321005321,brewtonschools,Brewton City Schools,,"BES INFO:
+
+Pre-K and Kindergarten will across the street this year from the main BES building. Pre-K and Kindergarten will be at  the Central Office (811 Belleville Avenue). Pre-K will be in the first hall, Kindergarten will be in the second hall.",[],[],[],1,0,0,[],[],https://twitter.com/brewtonschools/status/1151844463976882176,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1151844462496272384,1151844462496272384,1563456094000,2019-07-18,09:21:34,EDT,2321005321,brewtonschools,Brewton City Schools,,"* The first day of school is Thursday, Aug. 8. That day is a full day of school for all students at all Brewton City Schools.
+
+* Teachers will report back to school on Monday, Aug. 5.",[],[],[],1,0,0,[],[],https://twitter.com/brewtonschools/status/1151844462496272384,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1150743566018318337,1150743566018318337,1563193620000,2019-07-15,08:27:00,EDT,2321005321,brewtonschools,Brewton City Schools,,"BCS BOE TO MEET TODAY
+
+The Brewton City Board of Education will meet today,  Monday, July 15, at 5 p.m. at the Brewton City Board of Education Central Office Board Meeting Room.",[],[],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1150743566018318337,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1144353595040718848,1144353595040718848,1561670132000,2019-06-27,17:15:32,EDT,2321005321,brewtonschools,Brewton City Schools,,Instructional Aide position added to openings: https://www.brewtoncityschools.org/site/Default.aspx?PageID=49 …,[],['https://www.brewtoncityschools.org/site/Default.aspx?PageID=49'],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1144353595040718848,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1143237955445841921,1143237955445841921,1561404143000,2019-06-24,15:22:23,EDT,2321005321,brewtonschools,Brewton City Schools,,"From TRM:
+Senior portrait proofs are now available for pickup in office.
+Order day for Senior Portraits is Monday, July 15 from 9:00 to 10:30 am",[],[],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1143237955445841921,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1141351041147056128,1141351041147056128,1560954268000,2019-06-19,10:24:28,EDT,2321005321,brewtonschools,Brewton City Schools,,"To register, go to the following link:
+ https://alprek.asapconnected.com/  https://twitter.com/brewtonschools/status/1141348215008256002 …",[],"['https://alprek.asapconnected.com/', 'https://twitter.com/brewtonschools/status/1141348215008256002']",[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1141351041147056128,False,https://twitter.com/brewtonschools/status/1141348215008256002,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1141348222092402688,1141348215008256002,1560953596000,2019-06-19,10:13:16,EDT,2321005321,brewtonschools,Brewton City Schools,,"Drawing Time: 9:00 A.M.
+Location:  Brewton City Schools Board Room 
+
+For more information, contact Brewton Elementary School Principal Mr. Barry Wood at 867-8410
+
+#BES #PreK #Alabama",[],[],[],0,0,1,"['#bes', '#prek', '#alabama']",[],https://twitter.com/brewtonschools/status/1141348222092402688,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1141348215008256002,1141348215008256002,1560953594000,2019-06-19,10:13:14,EDT,2321005321,brewtonschools,Brewton City Schools,,"Brewton City Schools is proud to announce their first Pre-K program coming for the 2019-20 school year.
+
+You can register June 19 through July 18.
+
+Acceptance is strictly through random drawing to be held on July 22, 2019. Parent/Guardian does not have to be present at drawing. pic.twitter.com/qrOWW4d8GL",[],[],['https://pbs.twimg.com/media/D9biJepXoAQpSIk.jpg'],1,0,1,[],[],https://twitter.com/brewtonschools/status/1141348215008256002,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1140715667257286663,1140715667257286663,1560802783000,2019-06-17,16:19:43,EDT,2321005321,brewtonschools,Brewton City Schools,,4 NEW JOB POSTINGS HAVE BEEN POSTED FOR BCS: https://www.brewtoncityschools.org/Page/49 ,[],['https://www.brewtoncityschools.org/Page/49'],[],0,2,1,[],[],https://twitter.com/brewtonschools/status/1140715667257286663,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1135537543469043712,1135537543469043712,1559568222000,2019-06-03,09:23:42,EDT,2321005321,brewtonschools,Brewton City Schools,,"BCS BOE TO MEET MONDAY
+
+The Brewton City Board of Education will meet Monday, June 10, at 5 p.m. at the Brewton City Board of Education Central Office Board Meeting Room.",[],[],[],0,0,1,[],[],https://twitter.com/brewtonschools/status/1135537543469043712,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1131970001907453954,1131970001907453954,1558717654000,2019-05-24,13:07:34,EDT,2321005321,brewtonschools,Brewton City Schools,,"We hope all our students, teachers and staff have a safe and happy Summer Break!!! 
+Teachers will return to school on Monday, Aug. 5. Students will return to school on Thurs., Aug. 8.
+
+NEXT YEAR'S SCHOOL CALENDAR:
+ https://www.brewtoncityschools.org/cms/lib/AL01901380/Centricity/Domain/4/2019-20%20school%20calendar.pdf … pic.twitter.com/XOToMRaK3X",[],['https://www.brewtoncityschools.org/cms/lib/AL01901380/Centricity/Domain/4/2019-20%20school%20calendar.pdf'],['https://pbs.twimg.com/media/D7WQtxlWwAA_MkQ.jpg'],0,1,6,[],[],https://twitter.com/brewtonschools/status/1131970001907453954,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1130489043681198080,1130489043681198080,1558364566000,2019-05-20,11:02:46,EDT,2321005321,brewtonschools,Brewton City Schools,,"BCS BOE TO MEET MONDAY (TODAY)
+
+The Brewton City Board of Education will meet today, Monday, May 20, at 5 p.m. at the Brewton City Board of Education Central Office Board Meeting Room.",[],[],[],0,0,1,[],[],https://twitter.com/brewtonschools/status/1130489043681198080,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1129066993062154240,1129066993062154240,1558025522000,2019-05-16,12:52:02,EDT,2321005321,brewtonschools,Brewton City Schools,,Come welcome Coach Brent Hubbert and family to Brewton and to the TRM Family! pic.twitter.com/7tdFlCTvDZ,[],[],['https://pbs.twimg.com/media/D6tAcaOXoAAgjbG.jpg'],0,0,3,[],[],https://twitter.com/brewtonschools/status/1129066993062154240,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1128278554519777280,1128278554519777280,1557837544000,2019-05-14,08:39:04,EDT,2321005321,brewtonschools,Brewton City Schools,,"SPECIAL CALLED BOARD MEETING
+
+There will be a special called board meeting today (Tuesday, May 14) at 4 p.m. at the Brewton City Board of Education Central Office Board Meeting Room. Items to be discussed at the meeting will be: Personnel.",[],[],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1128278554519777280,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1125386277589794816,1125386277589794816,1557147971000,2019-05-06,09:06:11,EDT,2321005321,brewtonschools,Brewton City Schools,,"We love all our teachers at Brewton City Schools! Happy Teacher's Appreciation Week! Thanks for all that you do!
+ #TeacherAppreciationWeek #BES #BMS #TRM #TEACHers #Brewton #BCS",[],[],[],0,1,10,"['#teacherappreciationweek', '#bes', '#bms', '#trm', '#teachers', '#brewton', '#bcs']",[],https://twitter.com/brewtonschools/status/1125386277589794816,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1123588004143083521,1123588004143083521,1556719230000,2019-05-01,10:00:30,EDT,2321005321,brewtonschools,Brewton City Schools,,"Brewton City Schools will see a 1 p.m. dismissal ONLY ON THE LAST DAY OF SCHOOL (Thursday, May 23).  Monday through Wednesday (May 20-22) will be a regular 3 p.m. dismissal.",[],[],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1123588004143083521,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1119957566719713280,1119957566719713280,1555853666000,2019-04-21,09:34:26,EDT,2321005321,brewtonschools,Brewton City Schools,,From Brewton City Schools to you and yours: pic.twitter.com/QJYQmAlWNf,[],[],['https://pbs.twimg.com/media/D4rjeA4X4AAMYbT.jpg'],0,0,3,[],[],https://twitter.com/brewtonschools/status/1119957566719713280,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1118944106363928576,1118944095739707394,1555612038000,2019-04-18,14:27:18,EDT,2321005321,brewtonschools,Brewton City Schools,, pic.twitter.com/dIzynsyQuw,[],[],['https://pbs.twimg.com/media/D4dJuppXoAEWYYd.jpg'],0,0,0,[],[],https://twitter.com/brewtonschools/status/1118944106363928576,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1118944095739707394,1118944095739707394,1555612036000,2019-04-18,14:27:16,EDT,2321005321,brewtonschools,Brewton City Schools,,"REMINDER: BCS will be closed Friday due to the Good Friday Holiday!
+
+Have a Happy Easter!
+
+Be safe in the predicted storms for tonight! 
+
+See you Monday! pic.twitter.com/Rj6nMunAjW",[],[],['https://pbs.twimg.com/media/D4dJuQQXkAEm5cw.jpg'],1,1,0,[],[],https://twitter.com/brewtonschools/status/1118944095739707394,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1115977821632049152,1115977821632049152,1554904821000,2019-04-10,10:00:21,EDT,2321005321,brewtonschools,Brewton City Schools,,"3 new job openings have been posted for @brewtonschools :
+- System Science Job
+- TRM Social Studies Job
+- BES PE Job
+
+ https://www.brewtoncityschools.org/Page/49 ",['brewtonschools'],['https://www.brewtoncityschools.org/Page/49'],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1115977821632049152,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1115236752644628480,1115236751424069632,1554728136000,2019-04-08,08:55:36,EDT,2321005321,brewtonschools,Brewton City Schools,,"GOOD FRIDAY: APRIL 19, 2019
+All Brewton City Schools will be closed Friday, April 19, in observance of Good Friday.",[],[],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1115236752644628480,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1115236752048914434,1115236751424069632,1554728136000,2019-04-08,08:55:36,EDT,2321005321,brewtonschools,Brewton City Schools,,"WEDNESDAY: Kindergarten Registration
+Kindergarten registration will be Wednesday, April 17. Please call 867-8410 to schedule an appointment.",[],[],[],1,0,0,[],[],https://twitter.com/brewtonschools/status/1115236752048914434,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1115236751424069632,1115236751424069632,1554728136000,2019-04-08,08:55:36,EDT,2321005321,brewtonschools,Brewton City Schools,,"Busy week next week:
+
+MONDAY: BCS BOE TO MEET 
+The Brewton City Board of Education will meet Monday, April 15, at 5 p.m. at the Brewton City Board of Education Central Office Board Meeting Room.",[],[],[],1,0,0,[],[],https://twitter.com/brewtonschools/status/1115236751424069632,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1113185256272691205,1113161748322938887,1554239021000,2019-04-02,17:03:41,EDT,2321005321,brewtonschools,Brewton City Schools,, pic.twitter.com/9ZX0bOtj4L,[],[],['https://pbs.twimg.com/media/D3LUFfQWkAAp-pC.jpg'],0,0,2,[],[],https://twitter.com/brewtonschools/status/1113185256272691205,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1304402683286126595,1304402683286126595,1599828808000,2020-09-11,08:53:28,EDT,2321005321,brewtonschools,Brewton City Schools,, pic.twitter.com/q1nbNsUd93,[],[],['https://pbs.twimg.com/media/EhorU2SWkAAg5ek.jpg'],0,1,1,[],[],https://twitter.com/brewtonschools/status/1304402683286126595,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1286319620186689537,1286319620186689537,1595517470000,2020-07-23,11:17:50,EDT,2321005321,brewtonschools,Brewton City Schools,,BCS LEARNING OPTIONS VIDEO: https://youtu.be/_8fhqWI3n2w ,[],['https://youtu.be/_8fhqWI3n2w'],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1286319620186689537,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1285648892466528256,1285648892466528256,1595357556000,2020-07-21,14:52:36,EDT,2321005321,brewtonschools,Brewton City Schools,,"CALENDAR CHANGE:
+Please see the amended calendar attached. Students now return on August 10, 2020. pic.twitter.com/LJvdDGmCnz",[],[],['https://pbs.twimg.com/media/EdeK1ZVXsAQ41wm.jpg'],0,0,0,[],[],https://twitter.com/brewtonschools/status/1285648892466528256,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1283146848123981827,1283146848123981827,1594761022000,2020-07-14,17:10:22,EDT,2321005321,brewtonschools,Brewton City Schools,,REOPENING PLAN FOR @brewtonschools:  https://www.brewtoncityschools.org/cms/lib/AL01901380/Centricity/Domain/4/Reopening%20Plan%20-%20Brewton%20City%20Schools.pdf …,['brewtonschools'],['https://www.brewtoncityschools.org/cms/lib/AL01901380/Centricity/Domain/4/Reopening%20Plan%20-%20Brewton%20City%20Schools.pdf'],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1283146848123981827,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1265385252186476549,1265385250819125255,1590526328000,2020-05-26,16:52:08,EDT,2321005321,brewtonschools,Brewton City Schools,, https://m.youtube.com/channel/UCBDwltmPxxxGUNXTejTJhdQ/featured …,[],['https://m.youtube.com/channel/UCBDwltmPxxxGUNXTejTJhdQ/featured'],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1265385252186476549,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1265385250819125255,1265385250819125255,1590526328000,2020-05-26,16:52:08,EDT,2321005321,brewtonschools,Brewton City Schools,,"The BCS School Board will hold a special called meeting Wednesday, May 27 at 5 p.m.
+The meeting will be held via Zoom and will be on the Brewton City Schools YouTube page.
+
+Items to be discussed will be: bids, personnel and a workshop for board members following the meeting.",[],[],[],1,0,1,[],[],https://twitter.com/brewtonschools/status/1265385250819125255,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1263186295687348224,1263186295687348224,1590002056000,2020-05-20,15:14:16,EDT,2321005321,brewtonschools,Brewton City Schools,,BCS has the following positions open for applicants to apply for: https://www.brewtoncityschools.org/site/Default.aspx?PageID=49 …,[],['https://www.brewtoncityschools.org/site/Default.aspx?PageID=49'],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1263186295687348224,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1262504898261901315,1262504898261901315,1589839598000,2020-05-18,18:06:38,EDT,2321005321,brewtonschools,Brewton City Schools,, http://www.youtube.com/watch?v=yYfc0h5vwpw …,[],['http://www.youtube.com/watch?v=yYfc0h5vwpw'],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1262504898261901315,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1262393179749351427,1262393178608603138,1589812962000,2020-05-18,10:42:42,EDT,2321005321,brewtonschools,Brewton City Schools,,"To access the livestream of the meeting, go to BCS's YouTube channel. The link to the meeting will be available around 5 p.m. Monday.
+
+YouTube link: https://www.youtube.com/channel/UCBDwltmPxxxGUNXTejTJhdQ …",[],['https://www.youtube.com/channel/UCBDwltmPxxxGUNXTejTJhdQ'],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1262393179749351427,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1262393178608603138,1262393178608603138,1589812962000,2020-05-18,10:42:42,EDT,2321005321,brewtonschools,Brewton City Schools,,"BCS BOE TO MEET MONDAY
+
+Brewton City Schools will have their regular scheduled board meeting Monday, May 18, at 5 p.m. Because of our current conditions, this meeting will be closed to the public, but we will livestream it.",[],[],[],1,1,0,[],[],https://twitter.com/brewtonschools/status/1262393178608603138,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1260914962588934144,1260914960982577153,1589460528000,2020-05-14,08:48:48,EDT,2321005321,brewtonschools,Brewton City Schools,,Look for a link on our website and social media platforms a little before 5 p.m. Monday to view the meeting online.,[],[],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1260914962588934144,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1260914960982577153,1260914960982577153,1589460528000,2020-05-14,08:48:48,EDT,2321005321,brewtonschools,Brewton City Schools,,"Brewton City Schools will have their regular scheduled board meeting Monday, May 18, at 5 p.m. Because of our current conditions, this meeting will be closed to the public, but we will livestream it.",[],[],[],1,0,1,[],[],https://twitter.com/brewtonschools/status/1260914960982577153,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1259108644500779010,1259108644500779010,1589029868000,2020-05-09,09:11:08,EDT,2321005321,brewtonschools,Brewton City Schools,,BMS TEACHER PARADE: https://youtu.be/SQBTPITXeGM ,[],['https://youtu.be/SQBTPITXeGM'],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1259108644500779010,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1258119517798088705,1258119508717428738,1588794042000,2020-05-06,15:40:42,EDT,2321005321,brewtonschools,Brewton City Schools,,"WE LOVE AND APPRECIATE ALL OF OUR BCS TEACHERS, STAFF, PRINCIPALS AND NURSES!!!
+
+Thanks for ALL that you do! We love and miss everyone!
+Stay safe! pic.twitter.com/NWOFuzHNw4",[],[],"['https://pbs.twimg.com/media/EXW9B-BU4AA2Tml.jpg', 'https://pbs.twimg.com/media/EXW9B-TUMAEyxuw.jpg']",0,0,0,[],[],https://twitter.com/brewtonschools/status/1258119517798088705,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1258119508717428738,1258119508717428738,1588794040000,2020-05-06,15:40:40,EDT,2321005321,brewtonschools,Brewton City Schools,,"WE LOVE AND APPRECIATE ALL OF OUR BCS TEACHERS, STAFF, PRINCIPALS AND NURSES!!!
+
+Thanks for ALL that you do! We love and miss everyone!
+Stay safe! pic.twitter.com/eJJWYKORFq",[],[],['https://pbs.twimg.com/media/EXW9BKTUMAAcQSc.jpg'],1,0,1,[],[],https://twitter.com/brewtonschools/status/1258119508717428738,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1258119309106257922,1258119309106257922,1588793992000,2020-05-06,15:39:52,EDT,2321005321,brewtonschools,Brewton City Schools,,"Several information has been posted to our website lately. Stay updated with the latest news as well as information on the individual school websites of BES, BMS and TRM! https://www.brewtoncityschools.org ",[],['https://www.brewtoncityschools.org'],[],0,0,1,[],[],https://twitter.com/brewtonschools/status/1258119309106257922,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1252997113589489667,1252997113589489667,1587572766000,2020-04-22,12:26:06,EDT,2321005321,brewtonschools,Brewton City Schools,,"Brewton City Schools has the following job(s) available:
+
+ https://www.brewtoncityschools.org/site/Default.aspx?PageID=49 …",[],['https://www.brewtoncityschools.org/site/Default.aspx?PageID=49'],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1252997113589489667,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1249775451515629568,1249775451515629568,1586804662000,2020-04-13,15:04:22,EDT,2321005321,brewtonschools,Brewton City Schools,,"Brewton City Schools has the following job(s) available:
+
+ https://www.brewtoncityschools.org/site/Default.aspx?PageID=49 …",[],['https://www.brewtoncityschools.org/site/Default.aspx?PageID=49'],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1249775451515629568,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1247629450155614212,1247629450155614212,1586293015000,2020-04-07,16:56:55,EDT,2321005321,brewtonschools,Brewton City Schools,,"Brewton City Schools has the following job(s) available:
+
+ https://www.brewtoncityschools.org/site/Default.aspx?PageID=49 …",[],['https://www.brewtoncityschools.org/site/Default.aspx?PageID=49'],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1247629450155614212,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1245439993033695235,1245439989187518464,1585771008000,2020-04-01,15:56:48,EDT,2321005321,brewtonschools,Brewton City Schools,,"All BCS internet access is filtered and CIPA compliant.
+
+Additionally, the City of Brewton has wifi available at The John L Fisher Community Center, Jennings Park, Obannon Park, Dogwood Hills and the Public Library.",[],[],[],1,1,5,[],[],https://twitter.com/brewtonschools/status/1245439993033695235,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1245439989187518464,1245439989187518464,1585771007000,2020-04-01,15:56:47,EDT,2321005321,brewtonschools,Brewton City Schools,,"Brewton City Schools has opened up its wifi to the public.  The parking lots at TR Miller High School, Brewton Elementary School and the BCS Central Office now offer high-speed hot spots that can be accessed without a password.  Look for the BCSS-Guest network.",[],[],[],1,6,18,[],[],https://twitter.com/brewtonschools/status/1245439989187518464,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1244718504793817090,1244718504793817090,1585598991000,2020-03-30,16:09:51,EDT,2321005321,brewtonschools,Brewton City Schools,,IMPORTANT INFORMATIVE VIDEO FROM TRM PRINCIPAL:  https://www.facebook.com/364492713600466/posts/2751602684889445/?vh=e&d=n …,[],['https://www.facebook.com/364492713600466/posts/2751602684889445/?vh=e&d=n'],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1244718504793817090,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1240442763138805760,1240442761641447427,1584579575000,2020-03-18,20:59:35,EDT,2321005321,brewtonschools,Brewton City Schools,,"The regular route buses driven by the regular drivers will deliver meal packages to the students who show up at the bus stops during this time.
+
+Additionally, students can pick up meal packages in front of TR Miller High School from 8:00-10:00 Friday morning.",[],[],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1240442763138805760,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1240442761641447427,1240442761641447427,1584579575000,2020-03-18,20:59:35,EDT,2321005321,brewtonschools,Brewton City Schools,,Meals for Brewton City School Students!!  Students who would like to receive meals from Brewton City Schools during the shutdown need to be at their regular bus stop on Friday morning between 8:00-8:40 AM.,[],[],[],1,0,0,[],[],https://twitter.com/brewtonschools/status/1240442761641447427,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1240356811515072518,1240356811515072518,1584559083000,2020-03-18,15:18:03,EDT,2321005321,brewtonschools,Brewton City Schools,,WE PLAN TO GO LIVE AROUND 3:25 p.m today for our Pre-K drawing for our 2020-21 class:  https://www.facebook.com/315752341840177/posts/2847010818714304/?d=n …,[],['https://www.facebook.com/315752341840177/posts/2847010818714304/?d=n'],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1240356811515072518,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1240356204259487746,1240356204259487746,1584558938000,2020-03-18,15:15:38,EDT,2321005321,brewtonschools,Brewton City Schools,,"Please stay tuned to our website and social media platforms — as well as other messaging platforms —- for any updates! We thank you for your patience, understanding and cooperation during these uncertain times! Please be safe! pic.twitter.com/RIUCXm4yst",[],[],['https://pbs.twimg.com/media/ETahZETXkAE_Hic.jpg'],0,1,1,[],[],https://twitter.com/brewtonschools/status/1240356204259487746,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1239360045785272322,1239360044124307456,1584321435000,2020-03-15,21:17:15,EDT,2321005321,brewtonschools,Brewton City Schools,,"If you choose to keep you child at home tomorrow, the absence will be excused and not counted against your child.",[],[],[],0,1,1,[],[],https://twitter.com/brewtonschools/status/1239360045785272322,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1239360044124307456,1239360044124307456,1584321435000,2020-03-15,21:17:15,EDT,2321005321,brewtonschools,Brewton City Schools,,"Brewton City Schools will close at 3:00 PM on Monday, March 16 and remain closed until April 6.  
+
+Although we will have a regular school day tomorrow, we will not be in school on Tue and Wed as originally planned.",[],[],[],2,4,0,[],[],https://twitter.com/brewtonschools/status/1239360044124307456,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1238591975328108544,1238591975328108544,1584138313000,2020-03-13,18:25:13,EDT,2321005321,brewtonschools,Brewton City Schools,, https://www.al.com/news/2020/03/alabama-closes-all-k-12-schools.html …,[],['https://www.al.com/news/2020/03/alabama-closes-all-k-12-schools.html'],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1238591975328108544,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1237359135999561728,1237359131608178688,1583844381000,2020-03-10,08:46:21,EDT,2321005321,brewtonschools,Brewton City Schools,,"Pre-registration for next year’s class will run through March 13. 
+Enrollment will be open to all children four years of age on or before 9/1/2020 and residents of Alabama. 
+The random drawing will be held on March 19th at 3:30 pm at the Board of Education.",[],[],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1237359135999561728,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1237359133206118400,1237359131608178688,1583844381000,2020-03-10,08:46:21,EDT,2321005321,brewtonschools,Brewton City Schools,,"Spring Break holidays for all schools will be held Mon., March 23 through Fri., March 27.
+School will resume on Mon., March 30. Teachers and students will report back to school that day.
+We encourage everyone to be safe during this time and hope all have a great break!",[],[],[],1,0,0,[],[],https://twitter.com/brewtonschools/status/1237359133206118400,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1237359131608178688,1237359131608178688,1583844380000,2020-03-10,08:46:20,EDT,2321005321,brewtonschools,Brewton City Schools,,"BCS BOE TO MEET MONDAY 
+
+The Brewton City Board of Education will meet Monday, March 16, at 5 p.m. at the Brewton City Board of Education Central Office Board Meeting Room.",[],[],[],1,0,0,[],[],https://twitter.com/brewtonschools/status/1237359131608178688,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1227689790012841985,1227689790012841985,1581539029000,2020-02-12,15:23:49,EDT,2321005321,brewtonschools,Brewton City Schools,,"JUST A REMINDER:
+
+Brewton City Schools will be in normal session Thursday, Friday, and Monday.
+
+The next holiday for BCS will be spring break March 23-27. pic.twitter.com/K2UVw57NL1",[],[],['https://pbs.twimg.com/media/EQmhWr4WAAcOF71.jpg'],0,0,3,[],[],https://twitter.com/brewtonschools/status/1227689790012841985,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1222220222498820103,1222220218853920768,1580234983000,2020-01-28,13:09:43,EDT,2321005321,brewtonschools,Brewton City Schools,,"Such legislation would effectively do away with spring break and would also cut into both the Thanksgiving and Christmas breaks.  
+
+But as of right now, this will be our school calendar for next year.",[],[],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1222220222498820103,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1222220221072715777,1222220218853920768,1580234983000,2020-01-28,13:09:43,EDT,2321005321,brewtonschools,Brewton City Schools,,"However, according to BCS Sup. Dr. Kenneth Varner, we are expecting some legislation to be introduced that, if enacted, will require that we modify our calendar.  
+The proposed legislation will stipulate that we cannot start before Labor Day & must be out before Memorial Day.",[],[],[],1,0,0,[],[],https://twitter.com/brewtonschools/status/1222220221072715777,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1222220218853920768,1222220218853920768,1580234982000,2020-01-28,13:09:42,EDT,2321005321,brewtonschools,Brewton City Schools,,"2020-2021 School calendar for BCS approved at Monday’s BOE meeting:
+
+The attached calendar has been approved by the Brewton City Board of Education pic.twitter.com/OdU7mGlZpr",[],[],['https://pbs.twimg.com/media/EPYyzrQWAAE6t1h.jpg'],1,0,1,[],[],https://twitter.com/brewtonschools/status/1222220218853920768,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1220014997943865348,1220014997943865348,1579709216000,2020-01-22,11:06:56,EDT,2321005321,brewtonschools,Brewton City Schools,,"BCS BOE TO MEET MONDAY
+
+The Brewton City Board of Education will meet Monday, January 27, at 5 p.m. at the Brewton City Board of Education Central Office Board Meeting Room.",[],[],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1220014997943865348,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1218206083476590593,1218206083476590593,1579277938000,2020-01-17,11:18:58,EDT,2321005321,brewtonschools,Brewton City Schools,,"REMINDER:
+
+SCHOOLS CLOSED JAN. 20
+
+All Brewton City Schools will be closed Monday, Jan. 20, in observance of Dr. Martin Luther King, Jr. Day. School will resume on Tuesday, Jan. 21. pic.twitter.com/dJYu8L9QuQ",[],[],[],0,1,3,[],[],https://twitter.com/brewtonschools/status/1218206083476590593,False,,1,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1216749483289169922,1216749483289169922,1578930657000,2020-01-13,10:50:57,EDT,2321005321,brewtonschools,Brewton City Schools,,"MLK HOLIDAY: SCHOOLS CLOSED JAN. 20
+
+All Brewton City Schools will be closed next Monday, Jan. 20, in observance of Dr. Martin Luther King, Jr. Day. School will resume on Tuesday, Jan. 21. pic.twitter.com/8f6nJvMVfj",[],[],[],0,2,1,[],[],https://twitter.com/brewtonschools/status/1216749483289169922,False,,1,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1214542917177630720,1214542917177630720,1578404571000,2020-01-07,08:42:51,EDT,2321005321,brewtonschools,Brewton City Schools,,"ATTENTION TIGER FANS AND TRM ALUMNI:
+
+Good morning Tiger fans! We have a date set for Homecoming 2020!!! TRM will host Hillcrest on Friday, Oct. 9 for our homecoming this year! pic.twitter.com/jkotfbU422",[],[],['https://pbs.twimg.com/media/ENrsV29WsAIBYaL.jpg'],0,0,1,[],[],https://twitter.com/brewtonschools/status/1214542917177630720,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1212267003936944128,1212267003936944128,1577861951000,2020-01-01,01:59:11,EDT,2321005321,brewtonschools,Brewton City Schools,,"Happy new year 2020 to and from the BCS family! May this be your best year yet!! 
+
+Teachers report back Monday, Jan. 6. Students come back Tuesday, Jan. 7! pic.twitter.com/tpqkezh7Jt",[],[],['https://pbs.twimg.com/media/ENLWae1WoAAkJGs.jpg'],0,0,1,[],[],https://twitter.com/brewtonschools/status/1212267003936944128,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1209710596565950464,1209710596565950464,1577252456000,2019-12-25,00:40:56,EDT,2321005321,brewtonschools,Brewton City Schools,,MERRY CHRISTMAS TO YOU AND YOURS FROM BREWTON CITY SCHOOLS!!!! pic.twitter.com/LnxIkrXwQ4,[],[],['https://pbs.twimg.com/media/EMnBXxTWwAAUWv4.jpg'],0,0,3,[],[],https://twitter.com/brewtonschools/status/1209710596565950464,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1207735610955444225,1207735610955444225,1576781582000,2019-12-19,13:53:02,EDT,2321005321,brewtonschools,Brewton City Schools,,"Christmas/New Years Break will be Dec. 23-Jan. 3.
+
+Teachers will come back to school on Monday, Jan. 6.
+
+Students come back to school on Tuesday, Jan. 7.",[],[],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1207735610955444225,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1207735382764339201,1207735382764339201,1576781528000,2019-12-19,13:52:08,EDT,2321005321,brewtonschools,Brewton City Schools,,"CHRISTMAS BREAK EARLY DISMISSAL (Friday, Dec. 20)
+
+All Brewton City Schools will be dismissed Friday (December 20) at 1 p.m.  We hope all have a great and safe Merry Christmas and a Happy New Year!",[],[],[],0,0,1,[],[],https://twitter.com/brewtonschools/status/1207735382764339201,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1206574629906722818,1206574629906722818,1576504783000,2019-12-16,08:59:43,EDT,2321005321,brewtonschools,Brewton City Schools,,"BCS BOE TO MEET TODAY
+
+The Brewton City Board of Education will meet Monday, December 16, at 5 p.m. at the Brewton City Board of Education Central Office Board Meeting Room.",[],[],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1206574629906722818,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1204765531812892672,1204765529740890112,1576073460000,2019-12-11,09:11:00,EDT,2321005321,brewtonschools,Brewton City Schools,,"---------------------------------------------------------------
+
+* CHRISTMAS BREAK EARLY DISMISSAL (Friday, Dec. 20)
+
+All Brewton City Schools will be dismissed Friday (December 20) at 1 p.m.  We hope all have a great and safe Merry Christmas and a Happy New Year!",[],[],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1204765531812892672,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1204765530743332866,1204765529740890112,1576073460000,2019-12-11,09:11:00,EDT,2321005321,brewtonschools,Brewton City Schools,,"----------------------------------------------------------------
+* CHRISTMAS BREAK
+Christmas/New Years Break will be Dec. 23-Jan. 3.
+
+Teachers will come back to school on Monday, Jan. 6.
+
+Students come back to school on Tuesday, Jan. 7.",[],[],[],1,0,0,[],[],https://twitter.com/brewtonschools/status/1204765530743332866,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1204765529740890112,1204765529740890112,1576073460000,2019-12-11,09:11:00,EDT,2321005321,brewtonschools,Brewton City Schools,,"UPCOMING DATES:
+
+* BCS BOE TO MEET MONDAY
+
+The Brewton City Board of Education will meet Monday, December 16, at 5 p.m. at the Brewton City Board of Education Central Office Board Meeting Room.",[],[],[],1,1,0,[],[],https://twitter.com/brewtonschools/status/1204765529740890112,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1201958871432126465,1201958871432126465,1575404300000,2019-12-03,15:18:20,EDT,2321005321,brewtonschools,Brewton City Schools,,"All Brewton City Schools will dismiss for Christmas break at 1:00 on Friday, December 20th.",[],[],[],0,1,1,[],[],https://twitter.com/brewtonschools/status/1201958871432126465,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1200050629638590466,1200050629638590466,1574949340000,2019-11-28,08:55:40,EDT,2321005321,brewtonschools,Brewton City Schools,, pic.twitter.com/h6XmDCGsZC,[],[],['https://pbs.twimg.com/media/EKdvrq-WsAYnVCW.jpg'],0,0,0,[],[],https://twitter.com/brewtonschools/status/1200050629638590466,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1196419183963185152,1196419183963185152,1574083536000,2019-11-18,08:25:36,EDT,2321005321,brewtonschools,Brewton City Schools,,"BCS BOE TO MEET TODAY
+
+The Brewton City Board of Education will meet Monday, November 18, at 5 p.m. at the Brewton City Board of Education Central Office Board Meeting Room.",[],[],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1196419183963185152,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1194259594891141120,1194259594891141120,1573568650000,2019-11-12,09:24:10,EDT,2321005321,brewtonschools,Brewton City Schools,,"BCS BOE TO MEET MONDAY
+
+The Brewton City Board of Education will meet Monday, November 18, at 5 p.m. at the Brewton City Board of Education Central Office Board Meeting Room.",[],[],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1194259594891141120,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1192101020660314117,1192101020660314117,1573054006000,2019-11-06,10:26:46,EDT,2321005321,brewtonschools,Brewton City Schools,,"REMINDERS ⬇️⬇️⬇️
+
+*** Also, BCS will be closed Nov. 25-29 for Thanksgiving break *** pic.twitter.com/BOjMfMNNtk",[],[],['https://pbs.twimg.com/media/EIsxjw7WkAAEvaA.jpg'],0,1,1,[],[],https://twitter.com/brewtonschools/status/1192101020660314117,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1191491665627951104,1191491665627951104,1572908724000,2019-11-04,18:05:24,EDT,2321005321,brewtonschools,Brewton City Schools,,Per Schoolcast phone call Monday: SCHOOLS WILL DISMISS FRIDAY AT 2 p.m.,[],[],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1191491665627951104,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1186264294721236993,1186264294721236993,1571662422000,2019-10-21,08:53:42,EDT,2321005321,brewtonschools,Brewton City Schools,,"BCS BOE TO MEET TODAY 
+
+The Brewton City Board of Education will meet Monday, October 21, at 5 p.m. at the Brewton City Board of Education Central Office Board Meeting Room.",[],[],[],0,0,1,[],[],https://twitter.com/brewtonschools/status/1186264294721236993,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1184913207766462464,1184913207766462464,1571340298000,2019-10-17,15:24:58,EDT,2321005321,brewtonschools,Brewton City Schools,,"BCS BOE TO MEET MONDAY
+
+The Brewton City Board of Education will meet Monday, October 21, at 5 p.m. at the Brewton City Board of Education Central Office Board Meeting Room.",[],[],[],0,0,1,[],[],https://twitter.com/brewtonschools/status/1184913207766462464,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1183458293102137353,1183458271862112256,1570993419000,2019-10-13,15:03:39,EDT,2321005321,brewtonschools,Brewton City Schools,, pic.twitter.com/h6VwWKrVcs,[],[],['https://pbs.twimg.com/media/EGx9CBDWoAAiuhi.jpg'],0,0,0,[],[],https://twitter.com/brewtonschools/status/1183458293102137353,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1183458271862112256,1183458271862112256,1570993414000,2019-10-13,15:03:34,EDT,2321005321,brewtonschools,Brewton City Schools,,"REMINDER: NO SCHOOL FOR STUDENTS ON MONDAY 
+
+Monday, Oct. 14, will be Report Card/Parent-Teacher Conference Day for Brewton City Schools.
+Students will be off from school on this day, but it will be a work day for teachers. pic.twitter.com/eF88OD3xQw",[],[],['https://pbs.twimg.com/media/EGx9A6EWwAImYZk.jpg'],1,0,0,[],[],https://twitter.com/brewtonschools/status/1183458271862112256,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1181975678595543040,1181975678595543040,1570639936000,2019-10-09,12:52:16,EDT,2321005321,brewtonschools,Brewton City Schools,,"REMINDER: NO SCHOOL FOR STUDENTS ON MONDAY 
+
+Monday, Oct. 14, will be Report Card/Parent-Teacher Conference Day for Brewton City Schools.
+Students will be off from school on this day, but it will be a work day for teachers.",[],[],[],0,0,1,[],[],https://twitter.com/brewtonschools/status/1181975678595543040,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1176114095432577025,1176114095432577025,1569242426000,2019-09-23,08:40:26,EDT,2321005321,brewtonschools,Brewton City Schools,,"SPECIAL CALLED BOARD MEETING TO BE HELD TODAY 
+ 
+A special called board meeting will be held today, Monday (September 23) at 5 p.m.  at the Central Office on Belleville Avenue. Items of discussion will be personnel.",[],[],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1176114095432577025,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1175023662925324293,1175023662925324293,1568982446000,2019-09-20,08:27:26,EDT,2321005321,brewtonschools,Brewton City Schools,,"SPECIAL CALLED BOARD MEETING TO BE HELD MONDAY
+ 
+A special called board meeting will be held Monday (September 23) at 5 p.m.  at the Central Office on Belleville Avenue. Items of discussion will be personnel.",[],[],[],0,0,1,[],[],https://twitter.com/brewtonschools/status/1175023662925324293,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1172552349761638400,1172552349761638400,1568393239000,2019-09-13,12:47:19,EDT,2321005321,brewtonschools,Brewton City Schools,,BMS Teaching Position posted: https://www.brewtoncityschools.org/domain/23 ,[],['https://www.brewtoncityschools.org/domain/23'],[],0,0,1,[],[],https://twitter.com/brewtonschools/status/1172552349761638400,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1171734198023000065,1171734198023000065,1568198177000,2019-09-11,06:36:17,EDT,2321005321,brewtonschools,Brewton City Schools,,#September11 #NeverForget pic.twitter.com/93TUk865ZB,[],[],['https://pbs.twimg.com/media/EELWClQWwAEIaK8.jpg'],0,0,3,"['#september11', '#neverforget']",[],https://twitter.com/brewtonschools/status/1171734198023000065,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1170799865997209600,1170799865997209600,1567975415000,2019-09-08,16:43:35,EDT,2321005321,brewtonschools,Brewton City Schools,,"BCS BOE TO MEET MONDAY
+
+The Brewton City Board of Education will meet Monday, September 9, at 5 p.m. at the Brewton City Board of Education Central Office Board Meeting Room.",[],[],[],0,0,1,[],[],https://twitter.com/brewtonschools/status/1170799865997209600,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1169271683900956672,1169271683900956672,1567611068000,2019-09-04,11:31:08,EDT,2321005321,brewtonschools,Brewton City Schools,,"SPECIAL CALLED BOARD MEETING TO BE HELD THURSDAY
+ 
+A special called board meeting will be held Thursday (September 5) at 12 p.m.  at the Central Office on Belleville Avenue. Items of discussion will be personnel, resolution and a budget hearing.",[],[],[],0,0,2,[],[],https://twitter.com/brewtonschools/status/1169271683900956672,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1166707115089641473,1166707115089641473,1566999627000,2019-08-28,09:40:27,EDT,2321005321,brewtonschools,Brewton City Schools,,"NO SCHOOL MONDAY, SEPT. 2 (LABOR DAY)
+
+All Brewton City Schools will be closed Monday, Sept. 2, in observance of Labor. Day. School will resume on Tuesday, Sept. 3.",[],[],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1166707115089641473,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1163804902231072769,1163804902231072769,1566307685000,2019-08-20,09:28:05,EDT,2321005321,brewtonschools,Brewton City Schools,,"New job opening posted: Bus Driver
+
+ https://www.brewtoncityschools.org/domain/23 ",[],['https://www.brewtoncityschools.org/domain/23'],[],0,0,2,[],[],https://twitter.com/brewtonschools/status/1163804902231072769,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1160894495069822977,1160894495069822977,1565613790000,2019-08-12,08:43:10,EDT,2321005321,brewtonschools,Brewton City Schools,,"BCS BOE TO MEET MONDAY
+
+The Brewton City Board of Education will meet Monday, August 19, at 5 p.m. at the Brewton City Board of Education Central Office Board Meeting Room.",[],[],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1160894495069822977,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1158091644970897410,1158091644970897410,1564945539000,2019-08-04,15:05:39,EDT,2321005321,brewtonschools,Brewton City Schools,,Our 2019-20 school calendar! pic.twitter.com/wqfAwL1kKR,[],[],['https://pbs.twimg.com/media/EBJeMH6XsAE8Dm8.jpg'],0,0,0,[],[],https://twitter.com/brewtonschools/status/1158091644970897410,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1158088670764818432,1158088670764818432,1564944830000,2019-08-04,14:53:50,EDT,2321005321,brewtonschools,Brewton City Schools,,"REMINDER: In-service day is tomorrow, Monday, Aug. 5, at 8 a.m. at TRM’s auditorium!
+
+See you then!
+
+The 2019-20 school year is going to be our best yet!!
+
+#BCS #EverybodyLearnsEveryday pic.twitter.com/DqCoGzxJIb",[],[],['https://pbs.twimg.com/media/EBJbgRvXoAI7JAt.jpg'],0,0,0,"['#bcs', '#everybodylearnseveryday']",[],https://twitter.com/brewtonschools/status/1158088670764818432,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1157038157453332481,1157038157453332481,1564694368000,2019-08-01,17:19:28,EDT,2321005321,brewtonschools,Brewton City Schools,,"UPDATE: * New teacher orientation will be held Friday, Aug. 2 at 9 a.m. (not 8 a.m.)",[],[],[],0,0,1,[],[],https://twitter.com/brewtonschools/status/1157038157453332481,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1151844469832146950,1151844462496272384,1563456096000,2019-07-18,09:21:36,EDT,2321005321,brewtonschools,Brewton City Schools,,"More information concerning other dates, times and information for all three schools and for the Central Office will be posted at a later day as it is received.",[],[],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1151844469832146950,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1151844468594814976,1151844462496272384,1563456096000,2019-07-18,09:21:36,EDT,2321005321,brewtonschools,Brewton City Schools,,"* For more important dates and information, please consult the BMS Newsletter.
+
+ TRM INFO:
+
+Class schedules for students will be available on Friday, August 2nd, 2019 from 9-11 in the media center.  ALL SCHEDULE CHANGES SHOULD BE DONE ON THIS DATE.",[],[],[],1,0,0,[],[],https://twitter.com/brewtonschools/status/1151844468594814976,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1151844467533668353,1151844462496272384,1563456095000,2019-07-18,09:21:35,EDT,2321005321,brewtonschools,Brewton City Schools,,"School supplies not picked up before the first day of school will be given to those students on the first day of school (Thursday 8/8).
+
+* 7th &8th grade summer reading reports will be turned in on the first week of school and students will take a Reading Counts test for a grade.",[],[],[],1,0,0,[],[],https://twitter.com/brewtonschools/status/1151844467533668353,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1151844466208256000,1151844462496272384,1563456095000,2019-07-18,09:21:35,EDT,2321005321,brewtonschools,Brewton City Schools,,"*Out of district fees ($125) need to be paid at any school in the system by Tuesday, Aug. 6.
+
+*School supplies ordered will be available for pickup at Open House (Sunday, August 4) or any time Tuesday (8/6) - Wednesday (8/7).",[],[],[],1,0,0,[],[],https://twitter.com/brewtonschools/status/1151844466208256000,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1151844465017065472,1151844462496272384,1563456095000,2019-07-18,09:21:35,EDT,2321005321,brewtonschools,Brewton City Schools,,"BMS INFO:
+
+* There will be a Title I Parent Meeting on Sunday, August 4, at 1:30 p.m. in the BMS Cafeteria.  Following the Title I meeting, we will have Open House for 5th grade and New Students.  This will begin at 2 p.m. in the Cafeteria",[],[],[],1,0,0,[],[],https://twitter.com/brewtonschools/status/1151844465017065472,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1151844463976882176,1151844462496272384,1563456095000,2019-07-18,09:21:35,EDT,2321005321,brewtonschools,Brewton City Schools,,"BES INFO:
+
+Pre-K and Kindergarten will across the street this year from the main BES building. Pre-K and Kindergarten will be at  the Central Office (811 Belleville Avenue). Pre-K will be in the first hall, Kindergarten will be in the second hall.",[],[],[],1,0,0,[],[],https://twitter.com/brewtonschools/status/1151844463976882176,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1151844462496272384,1151844462496272384,1563456094000,2019-07-18,09:21:34,EDT,2321005321,brewtonschools,Brewton City Schools,,"* The first day of school is Thursday, Aug. 8. That day is a full day of school for all students at all Brewton City Schools.
+
+* Teachers will report back to school on Monday, Aug. 5.",[],[],[],1,0,0,[],[],https://twitter.com/brewtonschools/status/1151844462496272384,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1150743566018318337,1150743566018318337,1563193620000,2019-07-15,08:27:00,EDT,2321005321,brewtonschools,Brewton City Schools,,"BCS BOE TO MEET TODAY
+
+The Brewton City Board of Education will meet today,  Monday, July 15, at 5 p.m. at the Brewton City Board of Education Central Office Board Meeting Room.",[],[],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1150743566018318337,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1144353595040718848,1144353595040718848,1561670132000,2019-06-27,17:15:32,EDT,2321005321,brewtonschools,Brewton City Schools,,Instructional Aide position added to openings: https://www.brewtoncityschools.org/site/Default.aspx?PageID=49 …,[],['https://www.brewtoncityschools.org/site/Default.aspx?PageID=49'],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1144353595040718848,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1143237955445841921,1143237955445841921,1561404143000,2019-06-24,15:22:23,EDT,2321005321,brewtonschools,Brewton City Schools,,"From TRM:
+Senior portrait proofs are now available for pickup in office.
+Order day for Senior Portraits is Monday, July 15 from 9:00 to 10:30 am",[],[],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1143237955445841921,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1141351041147056128,1141351041147056128,1560954268000,2019-06-19,10:24:28,EDT,2321005321,brewtonschools,Brewton City Schools,,"To register, go to the following link:
+ https://alprek.asapconnected.com/  https://twitter.com/brewtonschools/status/1141348215008256002 …",[],"['https://alprek.asapconnected.com/', 'https://twitter.com/brewtonschools/status/1141348215008256002']",[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1141351041147056128,False,https://twitter.com/brewtonschools/status/1141348215008256002,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1141348222092402688,1141348215008256002,1560953596000,2019-06-19,10:13:16,EDT,2321005321,brewtonschools,Brewton City Schools,,"Drawing Time: 9:00 A.M.
+Location:  Brewton City Schools Board Room 
+
+For more information, contact Brewton Elementary School Principal Mr. Barry Wood at 867-8410
+
+#BES #PreK #Alabama",[],[],[],0,0,1,"['#bes', '#prek', '#alabama']",[],https://twitter.com/brewtonschools/status/1141348222092402688,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1141348215008256002,1141348215008256002,1560953594000,2019-06-19,10:13:14,EDT,2321005321,brewtonschools,Brewton City Schools,,"Brewton City Schools is proud to announce their first Pre-K program coming for the 2019-20 school year.
+
+You can register June 19 through July 18.
+
+Acceptance is strictly through random drawing to be held on July 22, 2019. Parent/Guardian does not have to be present at drawing. pic.twitter.com/qrOWW4d8GL",[],[],['https://pbs.twimg.com/media/D9biJepXoAQpSIk.jpg'],1,0,1,[],[],https://twitter.com/brewtonschools/status/1141348215008256002,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1140715667257286663,1140715667257286663,1560802783000,2019-06-17,16:19:43,EDT,2321005321,brewtonschools,Brewton City Schools,,4 NEW JOB POSTINGS HAVE BEEN POSTED FOR BCS: https://www.brewtoncityschools.org/Page/49 ,[],['https://www.brewtoncityschools.org/Page/49'],[],0,2,1,[],[],https://twitter.com/brewtonschools/status/1140715667257286663,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1135537543469043712,1135537543469043712,1559568222000,2019-06-03,09:23:42,EDT,2321005321,brewtonschools,Brewton City Schools,,"BCS BOE TO MEET MONDAY
+
+The Brewton City Board of Education will meet Monday, June 10, at 5 p.m. at the Brewton City Board of Education Central Office Board Meeting Room.",[],[],[],0,0,1,[],[],https://twitter.com/brewtonschools/status/1135537543469043712,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1131970001907453954,1131970001907453954,1558717654000,2019-05-24,13:07:34,EDT,2321005321,brewtonschools,Brewton City Schools,,"We hope all our students, teachers and staff have a safe and happy Summer Break!!! 
+Teachers will return to school on Monday, Aug. 5. Students will return to school on Thurs., Aug. 8.
+
+NEXT YEAR'S SCHOOL CALENDAR:
+ https://www.brewtoncityschools.org/cms/lib/AL01901380/Centricity/Domain/4/2019-20%20school%20calendar.pdf … pic.twitter.com/XOToMRaK3X",[],['https://www.brewtoncityschools.org/cms/lib/AL01901380/Centricity/Domain/4/2019-20%20school%20calendar.pdf'],['https://pbs.twimg.com/media/D7WQtxlWwAA_MkQ.jpg'],0,1,6,[],[],https://twitter.com/brewtonschools/status/1131970001907453954,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1130489043681198080,1130489043681198080,1558364566000,2019-05-20,11:02:46,EDT,2321005321,brewtonschools,Brewton City Schools,,"BCS BOE TO MEET MONDAY (TODAY)
+
+The Brewton City Board of Education will meet today, Monday, May 20, at 5 p.m. at the Brewton City Board of Education Central Office Board Meeting Room.",[],[],[],0,0,1,[],[],https://twitter.com/brewtonschools/status/1130489043681198080,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1129066993062154240,1129066993062154240,1558025522000,2019-05-16,12:52:02,EDT,2321005321,brewtonschools,Brewton City Schools,,Come welcome Coach Brent Hubbert and family to Brewton and to the TRM Family! pic.twitter.com/7tdFlCTvDZ,[],[],['https://pbs.twimg.com/media/D6tAcaOXoAAgjbG.jpg'],0,0,3,[],[],https://twitter.com/brewtonschools/status/1129066993062154240,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1128278554519777280,1128278554519777280,1557837544000,2019-05-14,08:39:04,EDT,2321005321,brewtonschools,Brewton City Schools,,"SPECIAL CALLED BOARD MEETING
+
+There will be a special called board meeting today (Tuesday, May 14) at 4 p.m. at the Brewton City Board of Education Central Office Board Meeting Room. Items to be discussed at the meeting will be: Personnel.",[],[],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1128278554519777280,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1125386277589794816,1125386277589794816,1557147971000,2019-05-06,09:06:11,EDT,2321005321,brewtonschools,Brewton City Schools,,"We love all our teachers at Brewton City Schools! Happy Teacher's Appreciation Week! Thanks for all that you do!
+ #TeacherAppreciationWeek #BES #BMS #TRM #TEACHers #Brewton #BCS",[],[],[],0,1,10,"['#teacherappreciationweek', '#bes', '#bms', '#trm', '#teachers', '#brewton', '#bcs']",[],https://twitter.com/brewtonschools/status/1125386277589794816,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1123588004143083521,1123588004143083521,1556719230000,2019-05-01,10:00:30,EDT,2321005321,brewtonschools,Brewton City Schools,,"Brewton City Schools will see a 1 p.m. dismissal ONLY ON THE LAST DAY OF SCHOOL (Thursday, May 23).  Monday through Wednesday (May 20-22) will be a regular 3 p.m. dismissal.",[],[],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1123588004143083521,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1119957566719713280,1119957566719713280,1555853666000,2019-04-21,09:34:26,EDT,2321005321,brewtonschools,Brewton City Schools,,From Brewton City Schools to you and yours: pic.twitter.com/QJYQmAlWNf,[],[],['https://pbs.twimg.com/media/D4rjeA4X4AAMYbT.jpg'],0,0,3,[],[],https://twitter.com/brewtonschools/status/1119957566719713280,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1118944106363928576,1118944095739707394,1555612038000,2019-04-18,14:27:18,EDT,2321005321,brewtonschools,Brewton City Schools,, pic.twitter.com/dIzynsyQuw,[],[],['https://pbs.twimg.com/media/D4dJuppXoAEWYYd.jpg'],0,0,0,[],[],https://twitter.com/brewtonschools/status/1118944106363928576,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1118944095739707394,1118944095739707394,1555612036000,2019-04-18,14:27:16,EDT,2321005321,brewtonschools,Brewton City Schools,,"REMINDER: BCS will be closed Friday due to the Good Friday Holiday!
+
+Have a Happy Easter!
+
+Be safe in the predicted storms for tonight! 
+
+See you Monday! pic.twitter.com/Rj6nMunAjW",[],[],['https://pbs.twimg.com/media/D4dJuQQXkAEm5cw.jpg'],1,1,0,[],[],https://twitter.com/brewtonschools/status/1118944095739707394,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1115977821632049152,1115977821632049152,1554904821000,2019-04-10,10:00:21,EDT,2321005321,brewtonschools,Brewton City Schools,,"3 new job openings have been posted for @brewtonschools :
+- System Science Job
+- TRM Social Studies Job
+- BES PE Job
+
+ https://www.brewtoncityschools.org/Page/49 ",['brewtonschools'],['https://www.brewtoncityschools.org/Page/49'],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1115977821632049152,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1115236752644628480,1115236751424069632,1554728136000,2019-04-08,08:55:36,EDT,2321005321,brewtonschools,Brewton City Schools,,"GOOD FRIDAY: APRIL 19, 2019
+All Brewton City Schools will be closed Friday, April 19, in observance of Good Friday.",[],[],[],0,0,0,[],[],https://twitter.com/brewtonschools/status/1115236752644628480,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1115236752048914434,1115236751424069632,1554728136000,2019-04-08,08:55:36,EDT,2321005321,brewtonschools,Brewton City Schools,,"WEDNESDAY: Kindergarten Registration
+Kindergarten registration will be Wednesday, April 17. Please call 867-8410 to schedule an appointment.",[],[],[],1,0,0,[],[],https://twitter.com/brewtonschools/status/1115236752048914434,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1115236751424069632,1115236751424069632,1554728136000,2019-04-08,08:55:36,EDT,2321005321,brewtonschools,Brewton City Schools,,"Busy week next week:
+
+MONDAY: BCS BOE TO MEET 
+The Brewton City Board of Education will meet Monday, April 15, at 5 p.m. at the Brewton City Board of Education Central Office Board Meeting Room.",[],[],[],1,0,0,[],[],https://twitter.com/brewtonschools/status/1115236751424069632,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
+1113185256272691205,1113161748322938887,1554239021000,2019-04-02,17:03:41,EDT,2321005321,brewtonschools,Brewton City Schools,, pic.twitter.com/9ZX0bOtj4L,[],[],['https://pbs.twimg.com/media/D3LUFfQWkAAp-pC.jpg'],0,0,2,[],[],https://twitter.com/brewtonschools/status/1113185256272691205,False,,0,,,,,,,"[{'user_id': '2321005321', 'username': 'brewtonschools'}]",,,,
