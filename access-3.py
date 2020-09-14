@@ -9,8 +9,8 @@ from os import path
 
 # params
 today = date.today()
-n_fb_pages_start = 4001 # number of FB pages to download data for; for testing
-n_fb_page_end = 5500
+n_fb_pages_start = 6251 # number of FB pages to download data for; for testing
+n_fb_page_end = 7000
 n_pages_to_iterate = 50 # number of pages to scrape within one FB page
 log_filename = 'logs/' + str(today) + '-error-log.txt'
 
