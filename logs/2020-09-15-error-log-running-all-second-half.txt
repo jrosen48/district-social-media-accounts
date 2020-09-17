@@ -880,3 +880,81 @@ nyssa-school-district-184055971646053 - attempt to get posts failed
 ontarioschooldistrict8c - attempt to get posts failed
 hellscanyoncomputers - attempt to get posts failed
 pages/prospect-charter-school/345867142120360 - attempt to get posts failed
+reedsportschooldistrict - attempt to get posts failed
+salemkeizerschools - attempt to get posts failed
+pg/sherwoodschooldistrict88j - attempt to get posts failed
+siuslawschooldistrict - attempt to get posts failed
+stanfieldsecondaryschool - attempt to get posts failed
+ttsdschools - incomplete
+pages/tillamook-school-district-9/459770067410513 - attempt to get posts failed
+abingtonsd/posts/2905031026232970 - attempt to get posts failed
+abingtonsd/posts/2903468316389241 - attempt to get posts failed
+abingtonjrhigh/posts/2810837572297941 - attempt to get posts failed
+abingtonsd/posts/2902971933105546 - attempt to get posts failed
+abingtonsd/posts/2901354246600648 - attempt to get posts failed
+abingtonsd/posts/2901265529942853 - attempt to get posts failed
+abingtonsrhigh/posts/2902200873150996 - attempt to get posts failed
+abingtonsd/posts/2894466277289445 - attempt to get posts failed
+abingtonsrhigh/posts/2895901277114289 - attempt to get posts failed
+abingtonsd/posts/2893881017347971 - attempt to get posts failed
+abingtonsrhigh/posts/2895213433849740 - attempt to get posts failed
+abingtonsrhigh/posts/2893553210682429 - attempt to get posts failed
+allentownschooldistrict - incomplete
+pages/ambridge-area-school-district/118288311519752 - attempt to get posts failed
+educational-netflix-shows - attempt to get posts failed
+annville-cleona-school-district-1578271509090362/timeline - attempt to get posts failed
+antietam-school-district-860501584050592 - attempt to get posts failed
+enrichingeducation - attempt to get posts failed
+pages/avella-school-district/466834876759548 - attempt to get posts failed
+avonworth-school-district-official-page-114567222967 - attempt to get posts failed
+groups/65022216610 - attempt to get posts failed
+bensalemtownshipschooldistrict - attempt to get posts failed
+bentworthsd - attempt to get posts failed
+basdschools - attempt to get posts failed
+pages/blackhawk-school-district/957864377565390 - attempt to get posts failed
+pages/boys-latin-of-philadelphia-charter-school/190506682526 - attempt to get posts failed
+pages/bristol-township-school-district/117685978391717 - attempt to get posts failed
+alexanderaerialphoto - attempt to get posts failed
+brownsvilleareasd - attempt to get posts failed
+pages/bucks-county-montessori-charter-school/197355857006629 - attempt to get posts failed
+burrell-school-district-543355845714595 - attempt to get posts failed
+esseducationstaffing/photos/a.10150655344801306/10158247568381306 - attempt to get posts failed
+butlerareasd/inbox - attempt to get posts failed
+#!/pages/catasauqua-area-school-district/149231378507852 - attempt to get posts failed
+csdinfo - incomplete
+cslcharter - attempt to get posts failed
+pages/charleroi-area-school-district/766719013435382 - attempt to get posts failed
+cheltenhamsd - incomplete
+ccfaschool - attempt to get posts failed
+circle-of-seasons-charter-school-175176475850206 - attempt to get posts failed
+clairtonmiddlehighschool - attempt to get posts failed
+clairtonelementaryschool - incomplete
+coatesvillesd - incomplete
+colonialsdpa/videos/1692821760859956 - attempt to get posts failed
+colonialsdpa - incomplete
+pages/community-academy-of-philadelphia-cs-chs/136972396336871 - attempt to get posts failed
+cvbluejays - attempt to get posts failed
+cwasd - attempt to get posts failed
+councilrockschooldistrict - attempt to get posts failed
+groups/699065003801896 - attempt to get posts failed
+pg/curwensville/photos - attempt to get posts failed
+pages/delaware-valley-school-district/147681382076800 - attempt to get posts failed
+dtsdnews - attempt to get posts failed
+pages/dover-area-school-district/609657995718086 - attempt to get posts failed
+adelphoivillage - attempt to get posts failed
+eawildcatspride - attempt to get posts failed
+eastpennsboroasd - attempt to get posts failed
+pages/east-stroudsburg-area-school-district/308294906009053 - attempt to get posts failed
+elco-school-district-110561717237060 - incomplete
+the-foundation-for-easton-schools-274135732711246 - attempt to get posts failed
+gomountseasd - attempt to get posts failed
+executiveeducationschools - incomplete
+pages/fairview-school-district-fairview-pa/153549181325450 - attempt to get posts failed
+forbesroad - attempt to get posts failed
+ftces - attempt to get posts failed
+freirecharterphila - attempt to get posts failed
+generalmclaneschooldistrict - incomplete
+girard-school-district-166522900471387 - incomplete
+glacharter - attempt to get posts failed
+governormifflinsd - attempt to get posts failed
+pages/green-woods-charter-school/115281245202885 - attempt to get posts failed
