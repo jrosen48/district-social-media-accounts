@@ -1251,3 +1251,4 @@ pages/cjh-leaders-in-excellence/156865237678090 - attempt to get posts failed
 clarendon-elementary-108614870781538 - attempt to get posts failed
 claudeisd - attempt to get posts failed
 cleburne-independent-school-district-305821472762964 - attempt to get posts failed
+coahoma-independent-school-district-354317581396411 - attempt to get posts failed
