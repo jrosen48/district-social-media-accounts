@@ -9,10 +9,10 @@ from os import path
 
 # params
 today = date.today()
-n_fb_pages_start = 3501 # number of FB pages to download data for; for testing
-n_fb_page_end = 4500
-n_pages_to_iterate = 50 # number of pages to scrape within one FB page
-log_filename = 'logs/' + str(today) + '-error-log.txt'
+n_fb_pages_start = 1 # number of FB pages to download data for; for testing
+n_fb_page_end = 4999
+n_pages_to_iterate = 100 # number of pages to scrape within one FB page
+log_filename = 'logs/' + str(today) + '-error-log-running-all-first-half.txt'
 
 # reading data with page names
 district_data = pd.read_csv("facebook-accounts-from-district-homepages.csv")
