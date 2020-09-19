@@ -1,6 +1,7 @@
 library(tidyverse)
 
 d <- read_csv("facebook-accounts-from-district-homepages.csv")
+nces_info_for_districts <- read_csv("facebook/nces-info-for-districts.csv")
 
 files <- list.files("data")
 
@@ -56,3 +57,13 @@ create_new_id_column <- function(d, file_name) {
 }
 
 large_df <- map2_df(read_files_list, files, ~create_new_id_column(.x, .y))
+
+just_nces_id_and_website <- nces_info_for_districts %>% 
+  select(link_proc, url, nces_id)
+
+large_df <- large_df %>% 
+  mutate(link_proc = str_split(link_proc, ".csv") %>% map_chr(~.[[1]])) %>% 
+  left_join(just_nces_id_and_website) %>% 
+  select(-video, -video_thumbnail)
+
+write_csv(large_df, "processed-joined-facebook-data.csv")
