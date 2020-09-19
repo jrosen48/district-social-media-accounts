@@ -9,13 +9,13 @@ from os import path
 
 # params
 today = date.today()
-n_fb_pages_start = 1 # number of FB pages to download data for; for testing
-n_fb_page_end = 4999
+n_fb_pages_start = 0 # number of FB pages to download data for; for testing
+n_fb_page_end = 4168
 n_pages_to_iterate = 100 # number of pages to scrape within one FB page
-log_filename = 'logs/' + str(today) + '-error-log-running-all-first-half.txt'
+log_filename = 'logs/' + str(today) + '-error-log-additional-requests-for-those-that-failed.txt'
 
 # reading data with page names
-district_data = pd.read_csv("facebook-accounts-from-district-homepages.csv")
+district_data = pd.read_csv("log-of-failed-attempts.csv")
 
 # using just the link variable,
 links_of_district_accounts = district_data['link_proc'][n_fb_pages_start:n_fb_page_end]
