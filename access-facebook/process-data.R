@@ -70,40 +70,74 @@ large_df <- large_df_unprocessed %>%
 
 write_csv(large_df, "processed-joined-facebook-data.csv")
 
-large_df <- read_csv("processed-joined-facebook-data.csv")
+# large_df <- read_csv("processed-joined-facebook-data.csv")
 
-large_df <- large_df %>% 
-  mutate(time = lubridate::ymd_hms(time),
-         time_r = lubridate::round_date(time, "day"))
+# nces_data_to_join <- nces_info_for_districts %>% 
+#   select(-url, -nces_id) %>% 
+#   rename(nces_data_link = link)
 
-large_df %>% 
-  count(time_r) %>% 
-  filter(time_r > lubridate::ymd("2020-01-01")) %>% 
-  mutate(wday = lubridate::wday(time_r, label = TRUE)) %>% 
-  group_by(wday) %>% 
-  summarize(sum_wday = sum(n)) %>% 
-  ggplot(aes(x = wday, y = sum_wday)) +
-  geom_col()
+# unique_links <- large_df %>% 
+#   distinct(link_proc)
 
-large_df %>% 
-  count(time_r) %>% 
-  filter(time_r > lubridate::ymd("2020-01-01")) %>% 
-  ggplot(aes(x = time_r, y = n)) +
-  geom_col() +
-  hrbrthemes::theme_ipsum()
+# nces_data_to_join %>% 
+#   left_join(unique_links)
+#   left_join(nces_data_to_join)
 
-p <- large_df %>% 
-  mutate(closure = str_detect(tolower(text), "clos*")) %>% 
-  filter(time_r > lubridate::ymd("2020-01-01")) %>%
-  count(closure, time_r) %>% 
-  filter(closure) %>% 
-  ggplot(aes(x = time_r, y = n)) +
-  geom_point() +
-  geom_line() +
-  hrbrthemes::theme_ipsum() +
-  ggtitle("Mentions of closures")
+# large_df <- large_df %>% 
+#   mutate(time = lubridate::ymd_hms(time),
+#          time_r = lubridate::round_date(time, "day"))
 
-large_df %>% 
-  mutate(st = str_detect(tolower(text), "st math") |
-           str_detect(tolower(text), "stmath")) %>% 
-  count(st)
+# large_df %>% 
+#   count(time_r) %>% 
+#   filter(time_r > lubridate::ymd("2020-01-01")) %>% 
+#   mutate(wday = lubridate::wday(time_r, label = TRUE)) %>% 
+#   group_by(wday) %>% 
+#   summarize(sum_wday = sum(n)) %>% 
+#   ggplot(aes(x = wday, y = sum_wday)) +
+#   geom_col()
+
+# large_df %>% 
+#   count(time_r) %>% 
+#   filter(time_r > lubridate::ymd("2020-01-01")) %>% 
+#   ggplot(aes(x = time_r, y = n)) +
+#   geom_col() +
+#   hrbrthemes::theme_ipsum()
+
+# p <- large_df %>% 
+#   mutate(closure = str_detect(tolower(text), "clos*")) %>% 
+#   filter(time_r > lubridate::ymd("2020-01-01")) %>%
+#   count(closure, time_r) %>% 
+#   filter(closure) %>% 
+#   ggplot(aes(x = time_r, y = n)) +
+#   geom_point() +
+#   geom_line() +
+#   hrbrthemes::theme_ipsum() +
+#   ggtitle("Mentions of closures")
+
+# liwc_results <- read_csv("liwc-results.csv") # this comes from the LIWC software, which has no API
+
+# liwc_ss <- liwc_results %>% 
+#   rename(post_url = G) %>% 
+#   select(post_url, posemo, negemo) %>% 
+#   distinct(post_url, .keep_all = TRUE)
+
+# senti_to_plot <- large_df %>% 
+#   left_join(liwc_ss) %>% 
+#   filter(time_r > lubridate::ymd("2020-01-01")) %>%
+#   group_by(time_r) %>% 
+#   summarize(mean_posemo = mean(posemo),
+#             mean_negemo = mean(negemo))
+
+# senti_to_plot %>% 
+#   gather(key, val, -time_r) %>% 
+#   ggplot(aes(x = time_r, y = val)) +
+#   # geom_point() +
+#   #geom_line() + 
+#   facet_wrap(~key) +
+#   geom_smooth(show_se = FALSE) +
+#   hrbrthemes::theme_ipsum()
+
+# large_df %>% 
+#   mutate(st = str_detect(tolower(text), "st math") |
+#            str_detect(tolower(text), "stmath")) %>% 
+#   count(st)
